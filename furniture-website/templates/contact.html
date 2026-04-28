@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Furniture Store</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+<header class="main-header">
+  <div class="logo">
+    <img src="{{ url_for('static', filename='logo.png') }}" alt="Sofa Zone Logo">
+    <div class="underline"></div>
+  </div>
+
+  <nav class="nav">
+    <a href="{{ url_for('home') }}">Home</a>
+    <a href="{{ url_for('products') }}">Shop</a>
+    <a href="{{ url_for('about') }}">About</a>
+    <a href="{{ url_for('contact') }}">Contact</a>
+  </nav>
+</header>
+
+<section class="contact">
+  <div class="contact-image">
+    <img src="{{ url_for('static', filename='contact_us.png') }}" alt="contact us">
+  </div>
+
+  <div class="contact-form">
+    <h1>Contact Us</h1>
+    <p>Have questions or want to learn more about our furniture?</p>
+    <p>Fill out the form below and we'll get back to you soon!</p>
+
+      <form action="{{ url_for('contact') }}" method="post">
+      <input type="text" name="name" placeholder="Your Name" required>
+      <input type="email" name="email" placeholder="Your Email" required>
+      <textarea name="message" placeholder="Message" rows="5" required></textarea>
+      <button type="submit">Send</button>
+      </form>
+  </div>
+
+  <div class="contact-details">
+    <h2 class="contact-title">More Ways to Contact</h2>
+    <br>
+
+    <div class="contact-content">
+      <div class="details-left">
+        <p><strong>Phone:</strong> +353 89 420 7408</p>
+        <br>
+        <p><strong>Email:</strong> contact.sofazone@gmail.com</p>
+        <br>
+        <p><strong>Website:</strong> www.sofazone.com</p>
+      </div>
+
+      <div class="details-right">
+        <img src="{{ url_for('static', filename='more_ways_to_contact.png') }}" alt="contact team">
+      </div>
+    </div>
+  </div>
+
+  <div class="social-media">
+    <h2>Follow Us</h2>
+    <br>
+    <p>Stay connected with us on social media for the latest updates, promotions, and design inspiration.</p>
+    <br>
+    <p><strong>Facebook:</strong> SofaZone</p>
+    <br>
+    <p><strong>Instagram:</strong> @sofazone</p>
+    <br>
+  </div>
+</section>
+
+<footer class="footer">
+    <div class="footer-container">
+        <div class="footer-col">
+            <h3>Sofa Zone</h3>
+            <p>
+                At Sofa Zone, we bring comfort and style together.
+                Discover high-quality sofas designed to elevate your living space
+                with modern elegance and lasting durability.
+            </p>
+        </div>
+
+        <div class="footer-col">
+            <h3>Info</h3>
+            <ul>
+                <li><a href="{{ url_for('contact') }}">Contact</a></li>
+                <li><a href="{{ url_for('about') }}">About</a></li>
+                <li><a href="#">Delivery & Returns</a></li>
+                <li><a href="{{ url_for('terms_conditions') }}">Terms & Conditions</a></li>
+                <li><a href="{{ url_for('privacy') }}">Privacy Policy</a></li>
+            </ul>
+        </div>
+
+        <div class="footer-col">
+            <h3>Contact</h3>
+            <p>Phone: +353 89 420 7408</p>
+            <p>Email: contact.sofazone@gmail.com</p>
+            <p>Mon–Fri: 9am – 6pm</p>
+            <p>Sat: 10am – 5pm</p>
+        </div>
+    </div>
+
+    <div class="footer-bottom">
+        <p>© 2026 Sofa Zone. All rights reserved.</p>
+    </div>
+</footer>
+
+</body>
+</html>
