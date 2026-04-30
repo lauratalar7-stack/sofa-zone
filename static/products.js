@@ -149,7 +149,7 @@ document.addEventListener("DOMContentLoaded", () => {
             price: "€2349",
             image: "/static/napoli.png",
             description: "This modern corner sofa combines functionality, comfort, and innovative design. It is equipped with an electric extension system that allows you to effortlessly adjust the seating depth, creating the perfect space for relaxation. The model also features a practical bedding storage compartment, offering extra convenience and helping to keep your living space organized. Available in two versions: Corner sofa with electric extension and bedding storage – €2699, Straight sofa with electric extension – €2349.  Designed with everyday comfort in mind, it is an ideal choice for those who value both practicality and modern living solutions."
-        }
+        },
         "fiord_mini": {
             name: "Fiord Mini",
             price: "",
