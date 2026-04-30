@@ -194,7 +194,7 @@ document.addEventListener("DOMContentLoaded", () => {
             bedSize: "195 cm x 170 cm"
         },
         
-        "lyon_prawy": {
+        "lyon_right": {
             name: "Lyon Right",
             price: "",
             image: "",
@@ -205,7 +205,7 @@ document.addEventListener("DOMContentLoaded", () => {
             bedSize: "195 cm x 130 cm"
         },
         
-        "togo_box_prawy": {
+        "togo_box_right": {
             name: "Togo Box Right",
             price: "",
             image: "",
@@ -217,7 +217,7 @@ document.addEventListener("DOMContentLoaded", () => {
         },
         
         "togo_sofa_1": {
-            name: "Togo Sofa",
+            name: "Togo Sofa 1",
             price: "",
             image: "",
             description: "A minimalist sofa design focused on comfort and versatility. Finished in Aphrodite 04 fabric for a soft and elegant appearance.",
@@ -228,7 +228,7 @@ document.addEventListener("DOMContentLoaded", () => {
         },
         
         "togo_sofa_2": {
-            name: "Togo Sofa",
+            name: "Togo Sofa 2",
             price: "",
             image: "",
             description: "A clean and modern sofa designed for everyday comfort. Upholstered in Aphrodite 22 fabric, offering a refined and contemporary feel.",
@@ -238,8 +238,8 @@ document.addEventListener("DOMContentLoaded", () => {
             bedSize: ""
         },
         
-        "genua_naroznik_lewy": {
-            name: "Genua Left Corner",
+        "genua": {
+            name:"Genua",
             price: "",
             image: "",
             description: "A spacious corner sofa designed for comfort and relaxation. Its left-sided configuration and Fancy 20 fabric provide both functionality and style.",
