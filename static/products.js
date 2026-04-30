@@ -153,7 +153,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "fiord_mini": {
             name: "Fiord Mini",
             price: "",
-            image: "",
+            image: "/static/fiord_mini.png",
             description: "A compact and functional sofa designed for smaller spaces without compromising comfort. Its clean form and practical sleeping function make it ideal for everyday use. Upholstered in Opulence 11 fabric.",
             width: "230 cm",
             depth: "120 cm",
@@ -186,7 +186,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "sofia_mini": {
             name: "Sofia Mini",
             price: "",
-            image: "",
+            image: "/static/sofia_mini.png",
             description: "The Sofia Mini is a distinctive piece of furniture, perfect for relaxing with family during the day as well as unwinding with friends in the evening. It fits beautifully into a living room or lounge area. The seat is filled with soft silicone fiber, while the backrest is made of high-resilience foam. The loose, quilted cushions can be freely arranged to suit your comfort and style.",
             width: "230 cm",
             depth: "120 cm",
@@ -194,10 +194,10 @@ document.addEventListener("DOMContentLoaded", () => {
             bedSize: "195 cm x 170 cm"
         },
         
-        "lyon_right": {
-            name: "Lyon Right",
+        "lyon": {
+            name: "Lyon",
             price: "",
-            image: "",
+            image: "/static/lyon.jpg",
             description: "The Lyon corner sofa is an elegant piece, crafted with great precision and attention to detail, sure to impress anyone who visits your home. Its clean, structured lines are softened by gently rounded backrests, armrests, and cushions, making it a versatile choice that works beautifully in a variety of interior styles. Wooden legs add a distinctive and stylish touch. Lyon also features a practical bedding storage compartment and a convenient PUMA folding mechanism. Inside, it is built with both wave springs and pocket springs, ensuring comfort and durability.",
             width: "235 cm",
             depth: "165 cm",
