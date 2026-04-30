@@ -150,6 +150,104 @@ document.addEventListener("DOMContentLoaded", () => {
             image: "/static/napoli.png",
             description: "This modern corner sofa combines functionality, comfort, and innovative design. It is equipped with an electric extension system that allows you to effortlessly adjust the seating depth, creating the perfect space for relaxation. The model also features a practical bedding storage compartment, offering extra convenience and helping to keep your living space organized. Available in two versions: Corner sofa with electric extension and bedding storage – €2699, Straight sofa with electric extension – €2349.  Designed with everyday comfort in mind, it is an ideal choice for those who value both practicality and modern living solutions."
         }
+        "fiord_mini": {
+            name: "Fiord Mini",
+            price: "",
+            image: "",
+            description: "A compact and functional sofa designed for smaller spaces without compromising comfort. Its clean form and practical sleeping function make it ideal for everyday use. Upholstered in Opulence 11 fabric.",
+            width: "230 cm",
+            depth: "120 cm",
+            height: "86 cm",
+            bedSize: "200 cm x 160 cm"
+        },
+
+        "tokio_right": {
+            name: "Tokio Right",
+            price: "",
+            image: "",
+            description: "A modern corner sofa with a practical layout and generous sleeping area. The design includes an extended chaise section for added comfort. Upholstered in Shanghai Forest fabric.",
+            width: "255 cm",
+            depth: "",
+            height: "173 cm",
+            bedSize: "205 cm x 140 cm"
+        },
+        
+        "tokio_left": {
+            name: "Tokio Left",
+            price: "",
+            image: "",
+            description: "A stylish and functional corner sofa offering a comfortable lounging and sleeping solution. The left-sided configuration fits well in contemporary interiors. Upholstered in Zoya 01 fabric.",
+            width: "255 cm",
+            depth: "",
+            height: "173 cm",
+            bedSize: "205 cm x 140 cm"
+        },
+        
+        "sofia_mini": {
+            name: "Sofia Mini",
+            price: "",
+            image: "",
+            description: "The Sofia Mini is a distinctive piece of furniture, perfect for relaxing with family during the day as well as unwinding with friends in the evening. It fits beautifully into a living room or lounge area. The seat is filled with soft silicone fiber, while the backrest is made of high-resilience foam. The loose, quilted cushions can be freely arranged to suit your comfort and style.",
+            width: "230 cm",
+            depth: "120 cm",
+            height: "88 cm",
+            bedSize: "195 cm x 170 cm"
+        },
+        
+        "lyon_prawy": {
+            name: "Lyon Right",
+            price: "",
+            image: "",
+            description: "The Lyon corner sofa is an elegant piece, crafted with great precision and attention to detail, sure to impress anyone who visits your home. Its clean, structured lines are softened by gently rounded backrests, armrests, and cushions, making it a versatile choice that works beautifully in a variety of interior styles. Wooden legs add a distinctive and stylish touch. Lyon also features a practical bedding storage compartment and a convenient PUMA folding mechanism. Inside, it is built with both wave springs and pocket springs, ensuring comfort and durability.",
+            width: "235 cm",
+            depth: "165 cm",
+            height: "103 cm",
+            bedSize: "195 cm x 130 cm"
+        },
+        
+        "togo_box_prawy": {
+            name: "Togo Box Right",
+            price: "",
+            image: "",
+            description: "A practical and comfortable sofa with a simple, modern design. Upholstered in durable Sereno 692 fabric, suitable for everyday use.",
+            width: "",
+            depth: "",
+            height: "",
+            bedSize: ""
+        },
+        
+        "togo_sofa_1": {
+            name: "Togo Sofa",
+            price: "",
+            image: "",
+            description: "A minimalist sofa design focused on comfort and versatility. Finished in Aphrodite 04 fabric for a soft and elegant appearance.",
+            width: "",
+            depth: "",
+            height: "",
+            bedSize: ""
+        },
+        
+        "togo_sofa_2": {
+            name: "Togo Sofa",
+            price: "",
+            image: "",
+            description: "A clean and modern sofa designed for everyday comfort. Upholstered in Aphrodite 22 fabric, offering a refined and contemporary feel.",
+            width: "",
+            depth: "",
+            height: "",
+            bedSize: ""
+        },
+        
+        "genua_naroznik_lewy": {
+            name: "Genua Left Corner",
+            price: "",
+            image: "",
+            description: "A spacious corner sofa designed for comfort and relaxation. Its left-sided configuration and Fancy 20 fabric provide both functionality and style.",
+            width: "",
+            depth: "",
+            height: "",
+            bedSize: ""
+        }
     };
 
     const params = new URLSearchParams(window.location.search);
