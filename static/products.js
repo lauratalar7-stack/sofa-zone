@@ -161,28 +161,6 @@ document.addEventListener("DOMContentLoaded", () => {
             bedSize: "200 cm x 160 cm"
         },
 
-        "tokio_right": {
-            name: "Tokio Right",
-            price: "",
-            image: "",
-            description: "A modern corner sofa with a practical layout and generous sleeping area. The design includes an extended chaise section for added comfort. Upholstered in Shanghai Forest fabric.",
-            width: "255 cm",
-            depth: "",
-            height: "173 cm",
-            bedSize: "205 cm x 140 cm"
-        },
-        
-        "tokio_left": {
-            name: "Tokio Left",
-            price: "",
-            image: "",
-            description: "A stylish and functional corner sofa offering a comfortable lounging and sleeping solution. The left-sided configuration fits well in contemporary interiors. Upholstered in Zoya 01 fabric.",
-            width: "255 cm",
-            depth: "",
-            height: "173 cm",
-            bedSize: "205 cm x 140 cm"
-        },
-        
         "sofia_mini": {
             name: "Sofia Mini",
             price: "",
