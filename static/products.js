@@ -186,7 +186,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "togo_box_right": {
             name: "Togo Box Right",
             price: "",
-            image: "",
+            image: "/static/togo_box_right.png",
             description: "A practical and comfortable sofa with a simple, modern design. Upholstered in durable Sereno 692 fabric, suitable for everyday use.",
             width: "",
             depth: "",
@@ -205,26 +205,17 @@ document.addEventListener("DOMContentLoaded", () => {
             bedSize: ""
         },
         
-        "togo_sofa_2": {
-            name: "Togo Sofa 2",
-            price: "",
-            image: "",
-            description: "A clean and modern sofa designed for everyday comfort. Upholstered in Aphrodite 22 fabric, offering a refined and contemporary feel.",
-            width: "",
-            depth: "",
-            height: "",
-            bedSize: ""
-        },
+
         
         "genua": {
             name:"Genua",
             price: "",
-            image: "",
+            image: "/static/genua.png",
             description: "A spacious corner sofa designed for comfort and relaxation. Its left-sided configuration and Fancy 20 fabric provide both functionality and style.",
-            width: "",
-            depth: "",
-            height: "",
-            bedSize: ""
+            width: "220cm",
+            depth: "160cm",
+            height: "90/97cm",
+            bedSize: "195 cm x 130 cm"
         }
     };
 
