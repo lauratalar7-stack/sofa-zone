@@ -184,25 +184,25 @@ document.addEventListener("DOMContentLoaded", () => {
         },
         
         "togo_box_right": {
-            name: "Togo Box Right",
+            name: "Togo Box",
             price: "",
             image: "/static/togo_box_right.png",
             description: "A practical and comfortable sofa with a simple, modern design. Upholstered in durable Sereno 692 fabric, suitable for everyday use.",
-            width: "",
-            depth: "",
-            height: "",
-            bedSize: ""
+            width: "286 cm",
+            depth: "207 cm",
+            height: "72/77 cm",
+            bedSize: "125 cm x 220 cm"
         },
         
         "togo_sofa_1": {
-            name: "Togo Sofa 1",
+            name: "Togo Sofa",
             price: "",
             image: "",
             description: "A minimalist sofa design focused on comfort and versatility. Finished in Aphrodite 04 fabric for a soft and elegant appearance.",
-            width: "",
-            depth: "",
-            height: "",
-            bedSize: ""
+            width: "302 cm",
+            depth: "136 cm",
+            height: "72/77 cm",
+            bedSize: "125cm 220 cm"
         },
         
 
