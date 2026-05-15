@@ -186,7 +186,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "togo_box_right": {
             name: "Togo Box",
             price: "€3489",
-            image: "/static/togo_box_right.png",
+            image: "/static/togo_box_right.jpg",
             description: "A practical and comfortable sofa with a simple, modern design. Upholstered in durable Sereno 692 fabric, suitable for everyday use.",
             width: "286 cm",
             depth: "207 cm",
