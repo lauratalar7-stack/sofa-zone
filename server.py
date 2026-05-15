@@ -7,7 +7,7 @@ import os
 load_dotenv()
 
 app = Flask(__name__)
-app.secret_key = "replace-this-with-a-random-secret-key"
+app.secret_key = os.getenv("SECRET_KEY")
 
 @app.route("/")
 def home():
@@ -29,7 +29,7 @@ def contact():
         smtp_port = 587
         sender_email = os.getenv("SENDER_EMAIL")
         sender_password = os.getenv("EMAIL_PASS")
-        recipient_email = os.getenv("RECEPIENT_EMAIL")
+        recipient_email = os.getenv("RECIPIENT_EMAIL")
 
         msg = EmailMessage()
         msg["Subject"] = f"New contact form message from {name}"
