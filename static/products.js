@@ -175,7 +175,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "lyon": {
             name: "Lyon",
             price: "€2049",
-            image: "/static/lyon.jpg",
+            image: "/static/lyon.png",
             description: "The Lyon corner sofa is an elegant piece, crafted with great precision and attention to detail, sure to impress anyone who visits your home. Its clean, structured lines are softened by gently rounded backrests, armrests, and cushions, making it a versatile choice that works beautifully in a variety of interior styles. Wooden legs add a distinctive and stylish touch. Lyon also features a practical bedding storage compartment and a convenient PUMA folding mechanism. Inside, it is built with both wave springs and pocket springs, ensuring comfort and durability.",
             width: "235 cm",
             depth: "165 cm",
@@ -217,6 +217,110 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90/97cm",
             bedSize: "195 cm x 130 cm"
         }
+        "sofia_corner": {
+            name:"Sofia Corner",
+            price: "€___",
+            image: "/static/sofia_sofa.png",
+            description: "Sofia is a universal corner and original piece of furniture that will be perfect for relaxing during the day with the family, but also during the evening relaxation with friends, therefore it will fit perfectly into the living room or living room. The seat is made of a soft silicone ball, the backrest is made of highly elastic foam, and loose, quilted cushions can be freely arranged. ",
+            width: "270cm",
+            depth: "190cm",
+            height: "88cm",
+            bedSize: "230 cm x 170 cm"
+        }
+        "sofia": {
+            name:"Sofia Sofa",
+            price: "€___",
+            image: "/static/sofia_corner.jpg",
+            description: "Sofia is an original piece of furniture that will be perfect for relaxing during the day with the family, but also during the evening relaxation with friends, which is why it is perfect it will fit into the living room or living room. The seat is made of a soft silicone ball, the backrest is made of highly elastic foam, and loose, quilted cushions can be freely arranged.  ",
+            width: "248cm",
+            depth: "133cm",
+            height: "98cm",
+            bedSize: "200 cm x 180 cm"
+        }
+
+        "genewa_corner": {
+            name:"Genewa Corner",
+            price: "€___",
+            image: "/static/genewa_corner.png",
+            description:"Geneva corner is our proposition for large and medium-sized interiors. It has a fixed backrest and a modern PUMA folding system.The furniture is characterized by increased comfort thanks to the adjustable headrests and the highly elastic foam used.Chrome feet are an original decorative element.",
+            width: "255cm",
+            depth: "200cm",
+            height: "95-104cm",
+            bedSize: "205 cm x 140 cm"
+        }
+        "vertigo_corner": {
+            name:"Veritgo Corner",
+            price: "€___",
+            image: "/static/vertigo.png",
+            description:"Vertigo corner sofa bed is a proposition for a user who appreciates high quality and extraordinary comfort.The furniture has five independent adjustable headrests, an adjustable armrest, a bedding container and a Dolphin folding system.Wooden legs give it lightness.",
+            width: "267cm",
+            depth: "215cm",
+            height: "90-105cm",
+            bedSize: "200 cm x 130 cm"
+        }
+        "toronto_corner": {
+            name:"Toronto Corner",
+            price: "€___",
+            image: "/static/toronto_corner.png",
+            description: "Toronto is a piece of furniture that will make any interior look cozy. Its rounded sides and comfortable raised headrests are designed to ensure a comfortable rest. Delicate stitching adds a subtle expression, and chrome legs add elegance and lightness.The corner is made of highly elastic foam and wave springs, also in a “dolphin” pram.",
+            width: "270cm",
+            depth: "170cm",
+            height: "90-95cm",
+            bedSize: "210 cm x 130 cm"
+        }
+        "Cayenne_sofa": {
+            name:"Cayenne Sofa",
+            price: "€___",
+            image: "/static/cayenne_sofa.png",
+            description: "Cayenne sofa provides exceptional comfort of relaxation, thanks to the filling which is a corrugated spring and a system of “POCKET” type pocket springs.The gentle angle of the seat and the headrest increase the comfort of rest. A perfectly fitted side and a chrome leg increase the exclusivity of this model. An additional advantage of the Cayenne sofa is the use of additional legs extending when unfolding.",
+            width: "228cm",
+            depth: "100cm",
+            height: "90-103cm",
+            bedSize: "195 cm x 155 cm"
+        }
+
+        "cayenne_sofa": {
+            name:"Cayenne Sofa",
+            price: "€___",
+            image: "/static/cayenne_sofa.png",
+            description: "Cayenne sofa provides exceptional comfort of relaxation, thanks to the filling which is a corrugated spring and a system of “POCKET” type pocket springs.The gentle angle of the seat and the headrest increase the comfort of rest. A perfectly fitted side and a chrome leg increase the exclusivity of this model. An additional advantage of the Cayenne sofa is the use of additional legs extending when unfolding.",
+            width: "228cm",
+            depth: "100cm",
+            height: "90-103cm",
+            bedSize: "195 cm x 155 cm"
+        }
+        "cayenne_armchair": {
+            name:"Cayenne Armchair",
+            price: "€___",
+            image: "/static/cayenne_armchair.png",
+            description: "Cayenne sofa provides exceptional comfort of relaxation, thanks to the filling which is a corrugated spring and a system of “POCKET” type pocket springs.The gentle angle of the seat and the headrest increase the comfort of rest. A perfectly fitted side and a chrome leg increase the exclusivity of this model.",
+            width: "80cm",
+            depth: "90cm",
+            height: "90cm",
+            bedSize: ""
+        }
+        "macan_sofa": {
+            name:"Macan Sofa",
+            price: "€___",
+            image: "/static/macan_sofa.png",
+            description: "The Macan sofa is the perfect piece of furniture for family or social gatherings.Large back cushions and the high-resilience foam used make the piece of furniture very comfortable and cozy. Macan has a bedding container, it is distinguished by wooden accessories.",
+            width: "230cm",
+            depth: "100cm",
+            height: "95-105cm",
+            bedSize: "195 x 150 cm"
+        }
+        "macan_armchair": {
+            name:"Macan Armchair",
+            price: "€___",
+            image: "/static/macan_armchair.png",
+            description: "The Macan sofa is the perfect piece of furniture for family or social gatherings.Large back cushions and the high-resilience foam used make the piece of furniture very comfortable and cozy. Macan has a bedding container, it is distinguished by wooden accessories.",
+            width: "80cm",
+            depth: "90cm",
+            height: "90m",
+            bedSize: ""
+        }
+
+
     };
 
     const params = new URLSearchParams(window.location.search);
