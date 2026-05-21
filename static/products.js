@@ -316,8 +316,71 @@ document.addEventListener("DOMContentLoaded", () => {
             description: "The Macan sofa is the perfect piece of furniture for family or social gatherings.Large back cushions and the high-resilience foam used make the piece of furniture very comfortable and cozy. Macan has a bedding container, it is distinguished by wooden accessories.",
             width: "80cm",
             depth: "90cm",
-            height: "90m",
+            height: "90cm",
             bedSize: ""
+        }
+        "asti_sofa": {
+            name:"Asti Sofa",
+            price: "€___",
+            image: "/static/asti.png",
+            description:"Asti is a compromise between functionality and a small footprint. A piece of furniture placed in the central place will look beautiful from every side. Highly elastic foam is responsible for the comfort of use. The automatic unfolding mechanism prevents the floor from scratching, just lift the seat up and lower it slightly into place. ",
+            width: "255cm",
+            depth: "99cm",
+            height: "92cm",
+            bedSize: ""
+        }
+        "yoko_sofa": {
+            name:"Yoko Sofa",
+            price: "€___",
+            image: "/static/yoko.png",
+            description: "Yoko is the essence of simplicity only complemented by trimming on the edges. The classic shapes of the sofa make it suitable for any room. The comfort of use is guaranteed by the use of highly flexible foams. Yoko has a spacious container for bedding, and when unfolded, it creates a large relaxation area for the whole family. It will be a great replacement for a corner, not less functional, and taking up much less valuable space.",
+            width: "230cm",
+            depth: "95cm",
+            height: "93cm",
+            bedSize: "200 x 145 cm"
+        }
+        "yoko_corner": {
+            name:"Yoko Corner",
+            price: "€___",
+            image: "/static/yoko_corner.png",
+            description: "During the day, the Yoko corner will be pleasing to the eye with an elegant decorative kedar finish, and in the evenings comfort and convenience will be provided by the seats made of highly resilient foam.The furniture has two containers for bedding and neat wooden legs.",
+            width: "245cm",
+            depth: "143cm",
+            height: "90cm",
+            bedSize: "200 x 145 cm"
+        }
+
+        "olsen_corner": {
+            name:"Olsen Corner",
+            price: "€___",
+            image: "/static/olsen_corner.png",
+            description: "Olsen’s modern look is provided by the vertical stripes on the cushions and sides.The corner sofa is universal – depending on your needs – it is easy to change the side on which the bed is located. The comfort of the seats is ensured by highly elastic foam, and the whole is complemented by wooden legs.",
+            width: "225cm",
+            depth: "150cm",
+            height: "92cm",
+            bedSize: "205 x 140 cm"
+        }
+
+        "pori_corner": {
+            name:"Pori Corner",
+            price: "€___",
+            image: "/static/pori.png",
+            description: "Pori is a stylish piece of furniture that will decorate any living room. It is very easy to disassemble thanks to a PUMA mechanism. The solid-looking corner has gained lightness thanks to the trimming and wooden legs.",
+            width: "230cm",
+            depth: "155cm",
+            height: "90cm",
+            bedSize: "140 x 195 cm"
+        }
+
+        "mediolan_corner": {
+            name:"Mediolan Corner",
+            price: "€___",
+            image: "/static/mediolan.png",
+            description: "This corner perfectly uses the available space, even in a small room. A characteristic element are backrest cushions and rollers supporting the lumbar spine. The corrugated spring and the “POCKET” pocket spring system are responsible for the high comfort of the seat. Its unquestionable advantage is the spacious bedding container and the easy to unfold “puma” sleeping function. ",
+            width: "235cm",
+            depth: "165cm",
+            height: "90-102cm",
+            bedSize: "195 x 130 cm"
         }
 
 
