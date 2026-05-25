@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const products = {
         "lizbona-l": {
             name: "Lizbona I",
-            price: "€1879",
+            price: "€1880",
             image: "/static/lizbona-1.png",
             description: "Lizbona is a corner sofa with soft, timeless and always modern shapes.Thanks to the use of wave springs and high-resilience foam, it is extremely comfortable. Its unique, high and soft backrest further enhances the feeling of comfort while sitting. The sofa includes a large storage compartment for bedding and a Dolphin-style (DELFIN) pull-out sleeping function, making it both practical and functional for everyday use.",
             width: "260 cm",
@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "lizbona-fotel": {
             name: "Lizbona Armchair",
-            price: "€679",
+            price: "€670",
             image: "/static/lizbona-armchair.png",
             description: "Soft cushioning and a generously padded seat ensure exceptional comfort, while the contoured backrest provides proper support for relaxed sitting throughout the day. Subtly curved armrests add a touch of elegance and enhance the overall comfort of use. Designed to complement the Lisbon sofa set, the armchair combines style and functionality, making it a perfect addition to both modern living rooms and more classic interiors. Its stable construction and refined finish ensure durability, while its compact form allows it to fit seamlessly into any space, whether used as a standalone piece or part of a larger set.",
             width: "92 cm",
@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "lizbona-2os": {
             name: "Lizbona 2 people sofa",
-            price: "€1079",
+            price: "€1010",
             image: "/static/lizbona-2ppl.png",
             description: "Soft and comfortable seats, ergonomically shaped backrests, and gently rounded armrests make this set perfect for everyday use as well as for hosting guests. Thanks to the Dolphin-style pull-out function in the larger sofa, the Lisbon set can also serve as a comfortable bed for daytime rest. The two-seater sofa is equipped with a practical storage compartment for bedding, further enhancing its functionality.",
             width: "172 cm",
@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "lizbona-3os": {
             name: "Lizbona 3 people sofa",
-            price: "€1419",
+            price: "€1420",
             image: "/static/lizbona-3ppl.png",
             description: "Soft and comfortable seats, ergonomically shaped backrests, and gently rounded armrests make this set perfect for everyday use as well as for hosting guests. Thanks to the Dolphin-style pull-out function in the larger sofa, the Lisbon set can also serve as a comfortable bed for daytime rest. The two-seater sofa is equipped with a practical storage compartment for bedding, further enhancing its functionality.",
             width: "237 cm",
@@ -54,7 +54,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "rio": {
             name: "Rio",
-            price: "€2179",
+            price: "€2180",
             image: "/static/rio.png",
             description: "The Rio corner sofa offers optimal comfort thanks to its simple yet striking design. It features five manually adjustable headrests, bold piping details, a spacious bedding storage compartment, and a PUMA-style fold-out sleeping mechanism. An optional extra pouf can be added, which extends the chaise section when attached, or can be used separately as an additional standalone seat. It also includes a storage compartment. Available in both left-hand and right-hand configurations to suit different room layouts and individual needs.",
             width: "255 cm",
@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "ottawa": {
             name: "Ottawa",
-            price: "€2289",
+            price: "€2290",
             image: "/static/ottawa.png",
             description: "Ottawa is a model that enters a completely new dimension of design. Its metal legs give the piece a light visual feel and a timeless aesthetic. In addition, it is equipped with a spacious bedding storage compartment, five adjustable headrests, and a “dolphin” type folding mechanism. Available in both left-hand and right-hand configurations to suit different room layouts and individual needs.",
             width: "255 cm",
@@ -77,7 +77,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "bari": {
             name: "Bari",
-            price: "€1669",
+            price: "€1680",
             image: "/static/bari.png",
             description: "Ottawa is a model that enters a completely new dimension of design. Its metal legs give the piece a light, elegant look and a timeless, modern aesthetic. Additionally, it features a spacious bedding storage compartment, five adjustable headrests, and a “dolphin” folding mechanism. Available in both left-hand and right-hand configurations to suit different room layouts and individual needs.",
             width: "235 cm",
@@ -89,7 +89,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "tokio": {
             name: "Tokio",
-            price: "€1689",
+            price: "€2220",
             image: "/static/tokio.png",
             description: "The Tokio corner sofa is a response to the needs of customers who value style, quality, and comfort. Vertical stripes on the backrest and side add an elegant touch, while the PUMA folding mechanism allows for relaxed family time in front of a favorite series or solo lounging with a book. Tokio also includes a spacious storage compartment, ideal for keeping various small items. An optional extra pouf extends the chaise section when attached, or can be used separately as an additional standalone seat. It also includes a storage compartment. Available in both left-hand and right-hand configurations to suit different room layouts and individual needs.",
             width: "255 cm",
@@ -101,7 +101,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "malmo": {
             name: "Malmo",
-            price: "€1619",
+            price: "€1620",
             image: "/static/malmo.png",
             description: "The Malmo corner sofa is an excellent choice for smaller spaces, offering great comfort thanks to the high-resilience foam used in its construction. It features elegant quilted cushions and a practical side magazine rack, while its wooden legs add a warm and distinctive character. The sofa is also equipped with a modern PUMA-type folding mechanism for everyday convenience. Available in both left-hand and right-hand configurations to suit different room layouts and individual needs.",
             width: "230 cm",
@@ -113,7 +113,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "angus": {
             name: "Angus",
-            price: "€889",
+            price: "€890",
             image: "/static/angus.png",
             description: "Tasteful stitching, chrome legs, and exceptionally soft cushions create a stylish and lightweight overall look. The Angus sofa is a combination of functionality and elegance.",
             width: "190 cm",
@@ -124,7 +124,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "boston": {
             name: "Boston",
-            price: "€1609",
+            price: "€1610",
             image: "/static/boston.png",
             description: "The Boston sofa has been designed with attention to detail, standing out not only for its beautiful appearance but also for its unmatched comfort. Its soft upholstered cushions provide ideal support for the back and seat, creating a perfect place to relax after a long day. The solid construction ensures durability and stability, allowing you to enjoy its charm for many years.",
             width: "240 cm",
@@ -135,7 +135,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "bella": {
             name: "Bella",
-            price: "€1709",
+            price: "€1720",
             image: "/static/bella.png",
             description: "A sofa with a distinctive character and bold design. Its soft shapes, filled with high-resilience foam and silicone fiber, are enhanced by refined tailoring details such as piping and quilting, which further emphasize the strong personality of the BELLA sofa. Its uniquely shaped wooden legs, quilted lumbar cushions, and DL-type folding mechanism make this sofa a complete and perfectly designed piece.",
             width: "235 cm",
@@ -152,7 +152,7 @@ document.addEventListener("DOMContentLoaded", () => {
         },
         "fiord_mini": {
             name: "Fiord Mini",
-            price: "€1829",
+            price: "€1510",
             image: "/static/fiord_mini.png",
             description: "A compact and functional sofa designed for smaller spaces without compromising comfort. Its clean form and practical sleeping function make it ideal for everyday use. Upholstered in Opulence 11 fabric.",
             width: "230 cm",
@@ -163,7 +163,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "sofia_mini": {
             name: "Sofia Mini",
-            price: "€1859",
+            price: "€1650",
             image: "/static/sofia_mini.png",
             description: "The Sofia Mini is a distinctive piece of furniture, perfect for relaxing with family during the day as well as unwinding with friends in the evening. It fits beautifully into a living room or lounge area. The seat is filled with soft silicone fiber, while the backrest is made of high-resilience foam. The loose, quilted cushions can be freely arranged to suit your comfort and style.",
             width: "230 cm",
@@ -174,7 +174,7 @@ document.addEventListener("DOMContentLoaded", () => {
         
         "lyon": {
             name: "Lyon",
-            price: "€2049",
+            price: "€1820",
             image: "/static/lyon.png",
             description: "The Lyon corner sofa is an elegant piece, crafted with great precision and attention to detail, sure to impress anyone who visits your home. Its clean, structured lines are softened by gently rounded backrests, armrests, and cushions, making it a versatile choice that works beautifully in a variety of interior styles. Wooden legs add a distinctive and stylish touch. Lyon also features a practical bedding storage compartment and a convenient PUMA folding mechanism. Inside, it is built with both wave springs and pocket springs, ensuring comfort and durability.",
             width: "235 cm",
@@ -209,7 +209,7 @@ document.addEventListener("DOMContentLoaded", () => {
         
         "genua": {
             name:"Genua",
-            price: "€1669",
+            price: "€1490",
             image: "/static/genua.png",
             description: "A spacious corner sofa designed for comfort and relaxation. Its left-sided configuration and Fancy 20 fabric provide both functionality and style.",
             width: "220cm",
@@ -219,7 +219,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "sofia_corner": {
             name:"Sofia Corner",
-            price: "€___",
+            price: "€2100",
             image: "/static/sofia_sofa.png",
             description: "Sofia is a universal corner and original piece of furniture that will be perfect for relaxing during the day with the family, but also during the evening relaxation with friends, therefore it will fit perfectly into the living room or living room. The seat is made of a soft silicone ball, the backrest is made of highly elastic foam, and loose, quilted cushions can be freely arranged. ",
             width: "270cm",
@@ -229,7 +229,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "sofia": {
             name:"Sofia Sofa",
-            price: "€___",
+            price: "€1650",
             image: "/static/sofia_corner.jpg",
             description: "Sofia is an original piece of furniture that will be perfect for relaxing during the day with the family, but also during the evening relaxation with friends, which is why it is perfect it will fit into the living room or living room. The seat is made of a soft silicone ball, the backrest is made of highly elastic foam, and loose, quilted cushions can be freely arranged.  ",
             width: "248cm",
@@ -240,7 +240,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "genewa_corner": {
             name:"Genewa Corner",
-            price: "€___",
+            price: "€2295",
             image: "/static/genewa_corner.png",
             description:"Geneva corner is our proposition for large and medium-sized interiors. It has a fixed backrest and a modern PUMA folding system.The furniture is characterized by increased comfort thanks to the adjustable headrests and the highly elastic foam used.Chrome feet are an original decorative element.",
             width: "255cm",
@@ -250,7 +250,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "vertigo_corner": {
             name:"Veritgo Corner",
-            price: "€___",
+            price: "€2300",
             image: "/static/vertigo.png",
             description:"Vertigo corner sofa bed is a proposition for a user who appreciates high quality and extraordinary comfort.The furniture has five independent adjustable headrests, an adjustable armrest, a bedding container and a Dolphin folding system.Wooden legs give it lightness.",
             width: "267cm",
@@ -260,7 +260,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "toronto_corner": {
             name:"Toronto Corner",
-            price: "€___",
+            price: "€2150",
             image: "/static/toronto_corner.png",
             description: "Toronto is a piece of furniture that will make any interior look cozy. Its rounded sides and comfortable raised headrests are designed to ensure a comfortable rest. Delicate stitching adds a subtle expression, and chrome legs add elegance and lightness.The corner is made of highly elastic foam and wave springs, also in a “dolphin” pram.",
             width: "270cm",
@@ -268,9 +268,9 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90-95cm",
             bedSize: "210 cm x 130 cm"
         }
-        "Cayenne_sofa": {
+        "cayenne_sofa": {
             name:"Cayenne Sofa",
-            price: "€___",
+            price: "€1395",
             image: "/static/cayenne_sofa.png",
             description: "Cayenne sofa provides exceptional comfort of relaxation, thanks to the filling which is a corrugated spring and a system of “POCKET” type pocket springs.The gentle angle of the seat and the headrest increase the comfort of rest. A perfectly fitted side and a chrome leg increase the exclusivity of this model. An additional advantage of the Cayenne sofa is the use of additional legs extending when unfolding.",
             width: "228cm",
@@ -279,19 +279,9 @@ document.addEventListener("DOMContentLoaded", () => {
             bedSize: "195 cm x 155 cm"
         }
 
-        "cayenne_sofa": {
-            name:"Cayenne Sofa",
-            price: "€___",
-            image: "/static/cayenne_sofa.png",
-            description: "Cayenne sofa provides exceptional comfort of relaxation, thanks to the filling which is a corrugated spring and a system of “POCKET” type pocket springs.The gentle angle of the seat and the headrest increase the comfort of rest. A perfectly fitted side and a chrome leg increase the exclusivity of this model. An additional advantage of the Cayenne sofa is the use of additional legs extending when unfolding.",
-            width: "228cm",
-            depth: "100cm",
-            height: "90-103cm",
-            bedSize: "195 cm x 155 cm"
-        }
         "cayenne_armchair": {
             name:"Cayenne Armchair",
-            price: "€___",
+            price: "€680",
             image: "/static/cayenne_armchair.png",
             description: "Cayenne sofa provides exceptional comfort of relaxation, thanks to the filling which is a corrugated spring and a system of “POCKET” type pocket springs.The gentle angle of the seat and the headrest increase the comfort of rest. A perfectly fitted side and a chrome leg increase the exclusivity of this model.",
             width: "80cm",
@@ -301,7 +291,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "macan_sofa": {
             name:"Macan Sofa",
-            price: "€___",
+            price: "€1440",
             image: "/static/macan_sofa.png",
             description: "The Macan sofa is the perfect piece of furniture for family or social gatherings.Large back cushions and the high-resilience foam used make the piece of furniture very comfortable and cozy. Macan has a bedding container, it is distinguished by wooden accessories.",
             width: "230cm",
@@ -311,7 +301,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "macan_armchair": {
             name:"Macan Armchair",
-            price: "€___",
+            price: "€680",
             image: "/static/macan_armchair.png",
             description: "The Macan sofa is the perfect piece of furniture for family or social gatherings.Large back cushions and the high-resilience foam used make the piece of furniture very comfortable and cozy. Macan has a bedding container, it is distinguished by wooden accessories.",
             width: "80cm",
@@ -321,7 +311,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "asti_sofa": {
             name:"Asti Sofa",
-            price: "€___",
+            price: "€1235",
             image: "/static/asti.png",
             description:"Asti is a compromise between functionality and a small footprint. A piece of furniture placed in the central place will look beautiful from every side. Highly elastic foam is responsible for the comfort of use. The automatic unfolding mechanism prevents the floor from scratching, just lift the seat up and lower it slightly into place. ",
             width: "255cm",
@@ -331,7 +321,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "yoko_sofa": {
             name:"Yoko Sofa",
-            price: "€___",
+            price: "€1280",
             image: "/static/yoko.png",
             description: "Yoko is the essence of simplicity only complemented by trimming on the edges. The classic shapes of the sofa make it suitable for any room. The comfort of use is guaranteed by the use of highly flexible foams. Yoko has a spacious container for bedding, and when unfolded, it creates a large relaxation area for the whole family. It will be a great replacement for a corner, not less functional, and taking up much less valuable space.",
             width: "230cm",
@@ -341,7 +331,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "yoko_corner": {
             name:"Yoko Corner",
-            price: "€___",
+            price: "€1500",
             image: "/static/yoko_corner.png",
             description: "During the day, the Yoko corner will be pleasing to the eye with an elegant decorative kedar finish, and in the evenings comfort and convenience will be provided by the seats made of highly resilient foam.The furniture has two containers for bedding and neat wooden legs.",
             width: "245cm",
@@ -352,7 +342,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "olsen_corner": {
             name:"Olsen Corner",
-            price: "€___",
+            price: "€1490",
             image: "/static/olsen_corner.png",
             description: "Olsen’s modern look is provided by the vertical stripes on the cushions and sides.The corner sofa is universal – depending on your needs – it is easy to change the side on which the bed is located. The comfort of the seats is ensured by highly elastic foam, and the whole is complemented by wooden legs.",
             width: "225cm",
@@ -363,7 +353,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "pori_corner": {
             name:"Pori Corner",
-            price: "€___",
+            price: "€1640",
             image: "/static/pori.png",
             description: "Pori is a stylish piece of furniture that will decorate any living room. It is very easy to disassemble thanks to a PUMA mechanism. The solid-looking corner has gained lightness thanks to the trimming and wooden legs.",
             width: "230cm",
@@ -374,7 +364,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "mediolan_corner": {
             name:"Mediolan Corner",
-            price: "€___",
+            price: "€1899",
             image: "/static/mediolan.png",
             description: "This corner perfectly uses the available space, even in a small room. A characteristic element are backrest cushions and rollers supporting the lumbar spine. The corrugated spring and the “POCKET” pocket spring system are responsible for the high comfort of the seat. Its unquestionable advantage is the spacious bedding container and the easy to unfold “puma” sleeping function. ",
             width: "235cm",
@@ -385,7 +375,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "bergamo_corner": {
             name:"Bergamo Corner",
-            price: "€___",
+            price: "€1900",
             image: "/static/matera.png",
             description: "Bergamo  has been equipped with a modern folding system, where by lifting the seat you automatically obtain the entire seating area. It has a bedding container with easy access. A characteristic element are raised backrest cushions and “rollers” supporting the lumbar part of the spine. The corrugated spring and the “POCKET” pocket spring system are responsible for the high comfort of the seat.",
             width: "235 cm"
@@ -407,7 +397,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
          "matera_armchair": {
             name:"Matera Armchair",
-            price: "€___",
+            price: "€615",
             image: "/static/matera_armchair.png",
             description: "Matera is a piece of furniture designed with a passion for simple forms. The armchair’s character is given by quilting with buttons sewn into the backrest and wooden slats on the sides.
             width: "75 cm",
@@ -417,7 +407,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
          "katania": {
             name:"Katania Sofa",
-            price: "€___",
+            price: "€1070",
             image: "/static/katania.png",
             description: "The Katania sofa bed guarantees a unique character to each room thanks to its unusual shape and regular stitching. Wooden legs give the furniture naturalness and the highly elastic foam used in the seat makes the sofa very comfortable.",
             width: "230 cm",
@@ -428,7 +418,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "latina": {
             name:"Latina Sofa",
-            price: "€___",
+            price: "€1060",
             image: "/static/latina.png",
             description: "The style of the Latina sofa is inspired by the popular Scandinavian style. Beech wood legs give the furniture lightness, and subtle stitching on the backrest adds a unique, and at the same time devoid of flashiness, beauty. The corrugated spring and the “POCKET” pocket spring system are responsible for the exceptional comfort of relaxation. Latina folds down to sleep in the classic sofa way.",
             width: "223 cm",
@@ -439,7 +429,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "latina_armchair": {
             name:"Latina Armchair",
-            price: "€___",
+            price: "€520",
             image: "/static/latina_armchair.png",
             description: "The style of the Latina armchair is inspired by the popular Scandinavian style. Beech wood legs give the furniture lightness, and subtle stitching on the backrest adds a unique, and at the same time devoid of flashiness, beauty. The corrugated spring and the “POCKET” pocket spring system are responsible for the exceptional comfort of relaxation. ",
             width: "",
@@ -450,7 +440,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "carrera": {
             name:"Carrera Sofa",
-            price: "€___",
+            price: "€1430",
             image: "/static/carrera.png",
             description: "The character of the furniture is emphasized by the stitching on the edges of the sofa. The simple design of the furniture has been subtly diversified with delicate quilting on the backrest cushions and the seat. The corrugated spring and the “POCKET” pocket spring system and the gentle seat inclination angle are responsible for the outstanding comfort of the seat.An additional advantage is the use of additional legs extending when unfolding.",
             width: "228 cm",
@@ -461,7 +451,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "venus": {
             name:"Venus Sofa",
-            price: "€___",
+            price: "€2400",
             image: "/static/venus.png",
             description: "Venus sofa means comfort and functionality in one piece of furniture. Bonell springs used in the mattress and in the seat of highly elastic foam guarantee full comfort of rest.The Italian frame that allows you to unfold the sleeping function is the optimal solution for people who appreciate ergonomics and practicality.The area os 217 x 198 cm when unfolded and the sleeping are is 197 x 140 cm.",
             width: "196 cm",
@@ -472,7 +462,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "mars": {
             name:"Mars Sofa",
-            price: "€___",
+            price: "€2330",
             image: "/static/mars.png",
             description: "Mars sofa means comfort and functionality in one piece of furniture. Bonell springs used in the filling and the highly elastic foam in the seat guarantee full comfort of rest. Italian frame that allows to unfold the sleeping function is an optimal solution for people who appreciate ergonomics and practicality.",
             width: "196 cm",
@@ -483,7 +473,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "capri": {
             name:"Capri Sofa",
-            price: "€___",
+            price: "€1420",
             image: "/static/capri.png",
             description: "Capri is a casual sofa which, thanks to its universal form, will fit into any interior. Corrugated springs and the “POCKET” pocket spring system are responsible for the exceptional comfort of relaxation.",
             width: "230 cm",
@@ -494,7 +484,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "lugano": {
             name:"Lugano Sofa",
-            price: "€___",
+            price: "€1199",
             image: "/static/lugano.png",
             description: "The traditional and modern shapes of the Lugano sofa emphasize its soft and numerous cushions.A large seating area and small external dimensions will fit in any interior. Length spreading system",
             width: "235 cm",
@@ -505,7 +495,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "tuscany": {
             name:"Tuscany Corner",
-            price: "€___",
+            price: "€",
             image: "/static/tuscany.png",
             description: "The Tuscany corner is primarily about comfort. It is provided by a seat made of a corrugated spring and a system of pocket springs of the “POCKET” type. Additionally, spacious and soft silicone fiber cushions fit perfectly to the shape of the body. The option also includes a headrest. The dolphin unfolding system is also enriched with “POCKET” type pocket springs, which has a great impact on the comfort of relaxation.",
             width: "270 cm",
@@ -515,7 +505,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "venice": {
             name:"Venice Corner",
-            price: "€___",
+            price: "€1800",
             image: "/static/tuscany.png",
             description: "A corner with a simple line and modern form with original stitching that makes the piece of furniture look light. It is characterized by high seating comfort thanks to the corrugated spring and the “POCKET” pocket spring system. Its unquestionable advantage is the spacious bedding container and the easy to unfold “puma” sleeping function.",
             width: "235 cm",
@@ -525,7 +515,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "torino": {
             name:"Torino Corner",
-            price: "€___",
+            price: "€1890",
             image: "/static/torino.png",
             description:"The contemporary and timeless design of the Torino corner, highlighted with wooden legs, can blend in with any interior arrangement. A characteristic element are raised back cushions and “rollers” supporting the lumbar spine. The “POCKET” pocket spring system and the corrugated spring are responsible for the high comfort of the seat. Its unquestionable advantage is a spacious bedding container and an easy-to-unfold “puma” lounge function.",
             width: "243 cm",
@@ -535,7 +525,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "oslo": {
             name:"Oslo Corner",
-            price: "€___",
+            price: "€1600",
             image: "/static/oslo.png",
             description: "Oslo is a piece of furniture that meets all the requirements of rooms with small living areas. The corner sofa is universal, it has three independent adjustable headrests, a bedding container and a “dolphin” folding mechanism. ",
             width: "235 cm",
@@ -545,7 +535,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "andoria": {
             name:"Andoria Sofa",
-            price: "€___",
+            price: "€1445",
             image: "/static/andoria.png",
             description: "Andoria is a proposition for rooms in a contemporary style. The rounded shapes are emphasized with a decorative pocket, giving a distinctive character without interfering with its neutral aesthetics. A very practical solution is the fact that the sofa has a spacious seating area 210 cm long and 160 cm unfolded.",
             width: "210 cm",
@@ -555,7 +545,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "pheonix": {
             name:"Pheonix Sofa",
-            price: "€___",
+            price: "€1320",
             image: "/static/pheonix.png",
             description: "Phoenix – do you need an original accent in your interior? The Phoenix sofa is a piece of subtly selected design and an irresistible temptation of comfort. Mega Sofa Feniks offers a very large seating area.",
             width: "210 cm",
@@ -565,7 +555,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "murano": {
             name:"Murano Corner",
-            price: "€___",
+            price: "€1910",
             image: "/static/murano.png",
             description: "Due to the use of highly elastic foams in the seat and cushions, the Murano corner sofa is a very comfortable model with great seating comfort.It also has a modern unfolding system that allows easy and quick unfolding of the furniture. It comes with a large and easily accessible bedding container. Interesting and modern design gives this model its character.",
             width: "270 cm",
@@ -575,7 +565,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
          "carerra_corner": {
             name:"Carerra Corner",
-            price: "€___",
+            price: "€1430",
             image: "/static/carerra_corner.png",
             description: "The character of the furniture is emphasized by the stitching on the edges of the corner. The simple design of the furniture has been subtly diversified with delicate quilting on the backrest cushions and the seat. The corrugated spring and the “POCKET” pocket spring system and the gentle seat inclination angle are responsible for the outstanding comfort of the seat. An additional advantage is the use of additional legs extending when unfolding and the possibility of ordering a corner with a side or an island.",
             width: "315 cm",
@@ -585,7 +575,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "szezlong": {
             name:"Szezlong Armchair",
-            price: "€___",
+            price: "€920",
             image: "/static/szezlong.png",
             description: "To the library, SPA salons, offices, your living room or bedroom. The chaise longue is universal – it fits into any room – even in the garden after using the appropriate outdoor fabric. The backrest of the couch is adjustable depending on the user’s needs, the highly elastic foam is responsible for the comfort of rest, and the whole perfectly harmonizes with each other. designer look.",
             width: "60 cm",
@@ -595,7 +585,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "relax": {
             name:"Relax Armchair",
-            price: "€___",
+            price: "€700",
             image: "/static/relax.png",
             description: "A bit of relaxation on your favorite armchair is a little pleasure during the day. Thanks to the reclining backrest and extendable footrest, it will allow you to put yourself in a position suitable for reading a book, watching your favorite movie or napping.",
             width: "80 cm",
@@ -606,7 +596,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "kreta": {
             name:"Kreta Sofa",
-            price: "€___",
+            price: "€950",
             image: "/static/kreta.png",
             description: "The Crete sofa is primarily a modern style and small external dimensions. The characteristic “quilt” enhances the comfort of sitting. The room in which it is located gives an atmosphere of modern elegance.",
             width: "190 cm",
@@ -616,7 +606,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "kameleon": {
             name:"Kameleon Sofa",
-            price: "€___",
+            price: "€",
             image: "/static/kameleon.png",
             description: "The chameleon, as the name suggests, has the possibility of using many solutions. It can be used as a comfortable sofa or bed by using pillows and quilts that have been matched to this model. By adding these elements, the sofa is aimed at people who value comfort and functionality.",
             width: "195 cm",
@@ -626,7 +616,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "kama": {
             name:"Kama Corner",
-            price: "€___",
+            price: "€1050",
             image: "/static/kama.png",
             description: "Kama – small dimensions and universal form of this piece of furniture will allow you to fill even a small room. This small corner has a very large surface area when unfolded. Universal corner, automatic folding. The whole is made of a corrugated spring and polyurethane foam.",
             width: "203 cm",
@@ -636,7 +626,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "gama": {
             name:"Gama Corner",
-            price: "€___",
+            price: "€920",
             image: "/static/gama.png",
             description: "The range – a combination of the pleasure of sitting and relaxing. The filling of the sofa consists of a high-quality bonnell spring and a solid wood frame on both the seat and the backrest. The sofa has a large, aesthetic container for bedding. Automatic opening aid.",
             width: "195 cm",
@@ -646,7 +636,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "costa": {
             name:"Costa Sofa",
-            price: "€___",
+            price: "€870",
             image: "/static/costa.png",
             description: "A modern, comfortable sofa. Thanks to its small dimensions, it takes up little space, so it fits into small interiors.Perfect for youth rooms. A wide range of upholstery fabrics allows you to play with colors and patterns, and decorative stitching emphasizes its elegance.The sofa has a DL folding system.",
             width: "190 cm",
@@ -666,7 +656,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "tulum": {
             name:"Tulum Sofa",
-            price: "€___",
+            price: "€1200",
             image: "/static/tulum.png",
             description: "Minimalism, comfort, and functionality come together in the Tulum sofa. Its simple, geometric form fits perfectly into modern interiors. Tulum is an excellent choice for those who appreciate spacious relaxation — when unfolded, it offers an exceptionally large and comfortable surface, ideal for everyday lounging. The model is equipped with a roomy storage compartment that can easily accommodate blankets, pillows, and other household textiles, helping to keep the living room tidy. The combination of high-resilience foam filling and springs ensures durability and long-lasting comfort for years to come. Tulum is a sofa that impresses with its simplicity of form while surprising with its practical solutions.",
             width: "200 cm",
@@ -676,7 +666,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "polia": {
             name:"Polia Sofa",
-            price: "€___",
+            price: "€1235",
             image: "/static/polia.png",
             description: "Polia is a compact sofa that works perfectly in smaller spaces. Its sturdy construction is supported by wooden legs. Soft back cushions with decorative detailing, combined with the armrests, create an exceptionally comfortable place to relax.",
             width: "225 cm",
@@ -686,7 +676,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "mataro": {
             name:"Mataro Corner",
-            price: "€___",
+            price: "€1840",
             image: "/static/mataro.png",
             description:"An elegant corner sofa with a soft, modern form that perfectly combines design with everyday comfort. Its rounded shapes and refined details make it the focal point of any interior, bringing a cozy atmosphere to the space. The use of wave springs and HR foam guarantees comfort, resilience, and long-lasting durability. The puma-style mechanism allows for quick and effortless unfolding, providing additional space for relaxation. An ideal choice for those who value modern style, functionality, and exceptional comfort.",
             width: "255 cm",
@@ -696,7 +686,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "bodo": {
             name:"Bodo Corner",
-            price: "€___",
+            price: "€1530",
             image: "/static/bodo.png",
             description: "A stylish corner sofa with a soft, cozy shape that fits perfectly into modern and natural interior arrangements. The construction features wave springs and HR foam, ensuring proper support, resilience, and long-lasting durability for years to come. The DL unfolding system allows for quick and convenient preparation of additional resting space. The sofa is equipped with a practical bedding storage compartment that enhances its functionality, while the option to choose the left- or right-hand configuration makes it easy to adapt the piece to any room layout. Wooden elements emphasize the solid craftsmanship and add a natural touch to the overall design. It is a perfect combination of comfort, aesthetics, and practical solutions for any living room.",
             width: "240 cm",
@@ -706,7 +696,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "spello_armchair": {
             name:"Spello Armchair",
-            price: "€___",
+            price: "€240",
             image: "/static/spello_armchair.png",
             description: "Its modern form, gently rounded lines, and carefully refined details give the piece a light yet highly stylish appearance. The combination of wave springs and HR foam filling ensures exceptional comfort, proper support, and long-lasting durability for years to come. Adjustable headrests allow the seating position to be tailored to individual needs, enhancing comfort during relaxation.",
             width: "95 cm",
@@ -716,7 +706,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "spello_2ppl": {
             name:"Spello Sofa II",
-            price: "€___",
+            price: "€1100",
             image: "/static/spello_2ppl.png",
             description:"Its modern form, gently rounded lines, and carefully refined details give the piece a light yet highly stylish appearance. The combination of wave springs and HR foam filling ensures exceptional comfort, proper support, and long-lasting durability for years to come. Adjustable headrests allow the seating position to be tailored to individual needs, enhancing comfort during relaxation.The two-seater sofa features a practical bedding storage compartment, enhancing the functionality of the entire set.",
             width: "140 cm",
@@ -726,7 +716,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "spello_3ppl": {
             name:"Spello Sofa III",
-            price: "€___",
+            price: "€1420",
             image: "/static/spello_3ppl.png",
             description:"Its modern form, gently rounded lines, and carefully refined details give the piece a light yet highly stylish appearance. The combination of wave springs and HR foam filling ensures exceptional comfort, proper support, and long-lasting durability for years to come. Adjustable headrests allow the seating position to be tailored to individual needs, enhancing comfort during relaxation.The three-seater sofa is equipped with a puma-style mechanism that allows for quick and convenient unfolding.",
             width: "230 cm",
@@ -736,7 +726,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "spello_corner": {
             name:"Spello Corner",
-            price: "€___",
+            price: "€2330",
             image: "/static/spello_corner.png",
             description: "Spello is a corner sofa that combines modern elegance with maximum comfort. Its adjustable headrests allow the backrest to be tailored to individual preferences, providing exceptional comfort both while sitting and relaxing. Thanks to the puma-style unfolding function, the sofa can be transformed into a spacious resting area in just moments. The built-in bedding storage compartment makes organization easy, helping to keep the living room tidy. High-resilience foam filling ensures durability and optimal body support, delivering long-lasting comfort for years to come. Stylish wooden legs add lightness to the design and emphasize the elegant character of the furniture. An optional ottoman can serve as an additional seat or a comfortable footrest, further enhancing the functionality of the sofa.",
             width: "265 cm",
@@ -746,7 +736,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "nevada": {
             name:"Nevada Corner",
-            price: "€___",
+            price: "€2246",
             image: "/static/nevada.png",
             description: "Nevada is an exceptional corner sofa that combines modern design with maximum comfort. Its elegant form, set on wooden legs, adds lightness and style to the interior, blending perfectly with a variety of arrangements. Thanks to the adjustable headrests, Nevada allows the backrest to be tailored to individual needs, providing even greater comfort during relaxation. The dolphin-style unfolding function enables the sofa to be quickly and conveniently transformed into a spacious sleeping area, while the practical bedding storage compartment offers easy and efficient storage. An additional advantage is the optional ottoman, which can serve as an extra seat or a comfortable footrest. Its stylish appearance, high-quality materials, and attention to detail make the Nevada corner sofa an excellent choice for any modern interior.",
             width: "260 cm",
@@ -756,7 +746,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "lahti": {
             name:"Lahti Corner",
-            price: "€___",
+            price: "€2150",
             image: "/static/lahti.png",
             description: "The new version of the Lahti model offers even greater freedom of arrangement. Thanks to its modular design, you can adapt the sofa to your interior — regardless of the layout or size of the space. Choose from a variety of modules and create classic, corner, or more open configurations, perfect for larger interiors. Lahti in its modular version retains all the features our customers love — exceptional comfort, careful craftsmanship, and generous space for everyday relaxation. Each module has been designed with both comfort and aesthetics in mind. It is the perfect solution for those looking for flexible options for modern, functional interiors. ",
             width: "268 cm",
@@ -767,7 +757,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         "akaso_1": {
             name:"Akaso I Corner",
-            price: "€___",
+            price: "€1310",
             image: "/static/akaso_1.png",
             description: "Create a unique atmosphere in your living room with our modern corner sofa. Its minimalist design, enhanced with a sleeping function, ensures both comfort and flexibility of use. Available in a variety of upholstery colors, it can be perfectly matched to your individual style. Let our corner sofa become the heart of your living space, inspiring memorable moments spent together with your loved ones.",
             width: "220 cm",
@@ -777,7 +767,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
          "akaso_2": {
             name:"Akaso II Corner",
-            price: "€___",
+            price: "€1350",
             image: "/static/akaso_2.png",
             description: "The Akaso corner sofa is a functional and stylish solution for any living room or lounge area. Designed with maximum comfort in mind, it provides the perfect place to relax after a long day. Made from high-quality materials, its solid construction ensures durability and stability for many years of use.",
             width: "220 cm",
@@ -787,7 +777,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "akaso_miz_l": {
             name:"Akaso Mix L",
-            price: "€___",
+            price: "€1990",
             image: "/static/akaso_mix_l.png",
             description:"Thanks to its distinctive shape, the Akaso corner sofa makes excellent use of space, fitting perfectly into the corners of a room. Available in a variety of sizes and colors, it allows the furniture to be tailored to individual preferences and interior décor. With its unfolding function, the sofa also becomes an ideal sleeping space for guests.",
             width: "287 cm",
@@ -797,7 +787,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "akaso_3": {
             name:"Akaso III",
-            price: "€___",
+            price: "€1310",
             image: "/static/akaso_3.png",
             description: "It is the perfect solution for those who value functionality without compromising on style. The upholstered furniture is made from high-quality materials that ensure durability and comfort. The Akaso sofa is equipped with a DL unfolding mechanism, allowing it to quickly and conveniently provide a sleeping space for unexpected guests.",
             width: "220cm",
@@ -807,7 +797,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "akaso_armchair": {
             name:"Akaso Armchair",
-            price: "€___",
+            price: "€642",
             image: "/static/akaso_armchair.png",
             description: "It is the perfect solution for those who value functionality without compromising on style. The upholstered furniture is made from high-quality materials that ensure durability and comfort.",
             width: " ",
@@ -817,7 +807,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "akaso_ottoman": {
             name:"Akaso Ottoman",
-            price: "€___",
+            price: "€190",
             image: "/static/akaso_ottoman.png",
             description: "It is the perfect solution for those who value functionality without compromising on style. The upholstered furniture is made from high-quality materials that ensure durability and comfort.",
             width: " ",
@@ -827,7 +817,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "akaso": {
             name:"Akaso ",
-            price: "€___",
+            price: "€1190",
             image: "/static/akaso.png",
             description:"Akaso is a modern sofa with a minimalist character that fits perfectly into interiors inspired by any style. Its simple silhouette, low seating, and compact form create the perfect combination of comfort and aesthetics. When unfolded, the sofa offers an exceptionally large lounging space that easily meets the needs of everyday relaxation. Inside, there is a spacious storage compartment – a practical solution for keeping everything you want close at hand, yet out of sight. The high-resilience foam filling and sturdy construction ensure comfort and durability. Akaso is a model that combines functionality with modern design without overwhelming the interior.",
             width: "197 cm ",
@@ -837,7 +827,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "espo": {
             name:"Espo Corner ",
-            price: "€___",
+            price: "€2220",
             image: "/static/espo.png",
             description: "The Espo corner sofa is a perfect choice for those who appreciate versatile furniture that combines comfort, functionality, and stylish design. This model features a simple shape and minimalist legs that highlight its modern character. Espo also includes a spacious storage compartment, providing extra room for keeping everyday essentials neatly tucked away. An additional ottoman, available as an option, can extend the chaise section or be used separately as an independent seating space.",
             width: "255 cm ",
@@ -847,7 +837,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "ronda": {
             name:"Ronda Sofa ",
-            price: "€___",
+            price: "€1460",
             image: "/static/ronda.png",
             description:"The comfortable, refined, yet effortlessly versatile Ronda sofa brings style and elegance to any interior. With its simple form, Ronda fits perfectly into any space. Its distinctive features include higher-than-standard armrests and firm back cushions. An additional advantage is the large storage compartment for bedding and the even sleeping surface when unfolded.",
             width: "232 cm ",
@@ -857,7 +847,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "vertigo_2": {
             name:"Vertigo Corner ",
-            price: "€___",
+            price: "€2100",
             image: "/static/vertigo_2.png",
             description:","
             width: "170 cm ",
@@ -867,13 +857,34 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         "gordon": {
             name:"Gordon Corner ",
-            price: "€___",
+            price: "€2090",
             image: "/static/gordon.png",
             description:"Designed for those who appreciate simple forms, the Gordon corner sofa combines comfort with minimalist style. Its soft seating and additional cushions provide exceptional relaxation, while the simple legs add a sense of lightness and modern elegance to the piece.",
             width: "255 cm ",
             depth: "180 cm ",
             height: "95 cm ",
             bedSize: "210 cm x 150 cm"
+        }
+        "davos": {
+            name:"Davos Sofa ",
+            price: "€1345",
+            image: "/static/davos.png",
+            description: "The Davos sofa captivates with its unique stitching and tufting, bringing a touch of timeless elegance to any interior. Additional cushions adapt to the shape of the body, creating the perfect space for relaxation and rest.",
+            width: "204 cm ",
+            depth: "110 cm ",
+            height: "93 cm ",
+            bedSize: "204 cm x 155 cm"
+        }
+
+        "gustavo": {
+            name:"Gustavo Sofa ",
+            price: "€1480",
+            image: "/static/gustavo.png",
+            description: "The Gustavo sofa combines a timeless design with stylish finishing details. Soft seats, together with additional cushions and side supports, ensure exceptional comfort during family gatherings or evenings spent watching your favorite TV series.",
+            width: "235 cm ",
+            depth: "106 cm ",
+            height: "92 cm ",
+            bedSize: "195 cm x 160 cm"
         }
 
 
