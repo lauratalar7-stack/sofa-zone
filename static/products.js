@@ -216,7 +216,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "160cm",
             height: "90/97cm",
             bedSize: "195 cm x 130 cm"
-        }
+        },
         "sofia_corner": {
             name:"Sofia Corner",
             price: "€2100",
@@ -226,7 +226,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "190cm",
             height: "88cm",
             bedSize: "230 cm x 170 cm"
-        }
+        },
         "sofia": {
             name:"Sofia Sofa",
             price: "€1650",
@@ -236,7 +236,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "133cm",
             height: "98cm",
             bedSize: "200 cm x 180 cm"
-        }
+        },
 
         "genewa_corner": {
             name:"Genewa Corner",
@@ -247,7 +247,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "200cm",
             height: "95-104cm",
             bedSize: "205 cm x 140 cm"
-        }
+        },
         "vertigo_corner": {
             name:"Veritgo Corner",
             price: "€2300",
@@ -257,7 +257,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "215cm",
             height: "90-105cm",
             bedSize: "200 cm x 130 cm"
-        }
+        },
         "toronto_corner": {
             name:"Toronto Corner",
             price: "€2150",
@@ -267,7 +267,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "170cm",
             height: "90-95cm",
             bedSize: "210 cm x 130 cm"
-        }
+        },
         "cayenne_sofa": {
             name:"Cayenne Sofa",
             price: "€1395",
@@ -277,7 +277,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "100cm",
             height: "90-103cm",
             bedSize: "195 cm x 155 cm"
-        }
+        },
 
         "cayenne_armchair": {
             name:"Cayenne Armchair",
@@ -288,7 +288,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "90cm",
             height: "90cm",
             bedSize: ""
-        }
+        },
         "macan_sofa": {
             name:"Macan Sofa",
             price: "€1440",
@@ -298,7 +298,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "100cm",
             height: "95-105cm",
             bedSize: "195 x 150 cm"
-        }
+        },
         "macan_armchair": {
             name:"Macan Armchair",
             price: "€680",
@@ -308,7 +308,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "90cm",
             height: "90cm",
             bedSize: ""
-        }
+        },
         "asti_sofa": {
             name:"Asti Sofa",
             price: "€1235",
@@ -318,7 +318,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "99cm",
             height: "92cm",
             bedSize: ""
-        }
+        },
         "yoko_sofa": {
             name:"Yoko Sofa",
             price: "€1280",
@@ -328,7 +328,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "95cm",
             height: "93cm",
             bedSize: "200 x 145 cm"
-        }
+        },
         "yoko_corner": {
             name:"Yoko Corner",
             price: "€1500",
@@ -338,7 +338,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "143cm",
             height: "90cm",
             bedSize: "200 x 145 cm"
-        }
+        },
 
         "olsen_corner": {
             name:"Olsen Corner",
@@ -349,7 +349,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "150cm",
             height: "92cm",
             bedSize: "205 x 140 cm"
-        }
+        },
 
         "pori_corner": {
             name:"Pori Corner",
@@ -360,7 +360,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "155cm",
             height: "90cm",
             bedSize: "140 x 195 cm"
-        }
+        },
 
         "mediolan_corner": {
             name:"Mediolan Corner",
@@ -371,40 +371,40 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "165cm",
             height: "90-102cm",
             bedSize: "195 x 130 cm"
-        }
+        },
 
         "bergamo_corner": {
             name:"Bergamo Corner",
             price: "€1900",
             image: "/static/matera.png",
             description: "Bergamo  has been equipped with a modern folding system, where by lifting the seat you automatically obtain the entire seating area. It has a bedding container with easy access. A characteristic element are raised backrest cushions and “rollers” supporting the lumbar part of the spine. The corrugated spring and the “POCKET” pocket spring system are responsible for the high comfort of the seat.",
-            width: "235 cm"
+            width: "235 cm",
             depth: "85 cm",
             height: "90-102cm",
             bedSize: "195 x 130 cm"
-        }
+        },
 
         "matera": {
             name:"Matera",
-            price: "€___",
+            price: "€1140",
             image: "/static/bergamo.png",
             description: "Matera is a piece of furniture designed with a passion for simple forms. The sofa’s character is given by quilting with buttons sewn into the backrest and wooden slats on the sides. It has a container for bedding and a classic unfolding system for sofa beds.",
             width: "225 cm",
             depth: "85 cm",
             height: "95 cm",
             bedSize: "195 x 120 cm"
-        }
+        },
 
          "matera_armchair": {
             name:"Matera Armchair",
             price: "€615",
             image: "/static/matera_armchair.png",
-            description: "Matera is a piece of furniture designed with a passion for simple forms. The armchair’s character is given by quilting with buttons sewn into the backrest and wooden slats on the sides.
+            description: "Matera is a piece of furniture designed with a passion for simple forms. The armchair’s character is given by quilting with buttons sewn into the backrest and wooden slats on the sides.",
             width: "75 cm",
             depth: "80 cm",
             height: "90 cm",
 
-        }
+        },
          "katania": {
             name:"Katania Sofa",
             price: "€1070",
@@ -414,7 +414,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "90 cm",
             height: "95 cm",
             bedSize: "195 x 120 cm"
-        }
+        },
 
         "latina": {
             name:"Latina Sofa",
@@ -425,7 +425,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "92 cm",
             height: "97 cm",
             bedSize: "195 x 120 cm"
-        }
+        },
 
         "latina_armchair": {
             name:"Latina Armchair",
@@ -436,7 +436,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "83 cm",
             height: "97 cm",
             bedSize: ""
-        }
+        },
 
         "carrera": {
             name:"Carrera Sofa",
@@ -447,7 +447,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "100 cm",
             height: "93-103 cm",
             bedSize: "195 x 155 cm"
-        }
+        },
 
         "venus": {
             name:"Venus Sofa",
@@ -458,7 +458,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "98 cm",
             height: "87 cm",
             bedSize: "217 x 198 cm"
-        }
+        },
 
         "mars": {
             name:"Mars Sofa",
@@ -469,7 +469,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "98 cm",
             height: "87 cm",
             bedSize: "217 x 198 cm"
-        }
+        },
 
         "capri": {
             name:"Capri Sofa",
@@ -480,7 +480,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "85 cm",
             height: "100 cm",
             bedSize: "195 x 155 cm"
-        }
+        },
 
         "lugano": {
             name:"Lugano Sofa",
@@ -491,7 +491,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "100 cm",
             height: "85 cm",
             bedSize: "195 x 150 cm"
-        }
+        },
 
         "tuscany": {
             name:"Tuscany Corner",
@@ -502,7 +502,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "165 cm",
             height: "100-115 cm",
             bedSize: "200 x 130 cm"
-        }
+        },
         "venice": {
             name:"Venice Corner",
             price: "€1800",
@@ -512,7 +512,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "165 cm",
             height: "90 cm",
             bedSize: "195 x 140 cm"
-        }
+        },
         "torino": {
             name:"Torino Corner",
             price: "€1890",
@@ -522,7 +522,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "182 cm",
             height: "102 cm",
             bedSize: "190 x 130 cm"
-        }
+        },
         "oslo": {
             name:"Oslo Corner",
             price: "€1600",
@@ -532,7 +532,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "160 cm",
             height: "115 cm",
             bedSize: "195 x 125 cm"
-        }
+        },
         "andoria": {
             name:"Andoria Sofa",
             price: "€1445",
@@ -542,7 +542,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "102 cm",
             height: "96 cm",
             bedSize: "210 x 160 cm"
-        }
+        },
         "pheonix": {
             name:"Pheonix Sofa",
             price: "€1320",
@@ -552,7 +552,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "105 cm",
             height: "86 cm",
             bedSize: "210 x 160 cm"
-        }
+        },
         "murano": {
             name:"Murano Corner",
             price: "€1910",
@@ -562,7 +562,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "170 cm",
             height: "95 cm",
             bedSize: "230 x 150 cm"
-        }
+        },
          "carerra_corner": {
             name:"Carerra Corner",
             price: "€1430",
@@ -572,7 +572,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "220 cm",
             height: "92 cm",
             bedSize: "275 x 155 cm"
-        }
+        },
         "szezlong": {
             name:"Szezlong Armchair",
             price: "€920",
@@ -582,7 +582,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "150 cm",
             height: "70-85 cm",
             bedSize: ""
-        }
+        },
         "relax": {
             name:"Relax Armchair",
             price: "€700",
@@ -592,7 +592,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "84 cm",
             height: "105 cm",
             bedSize: ""
-        }
+        },
 
         "kreta": {
             name:"Kreta Sofa",
@@ -603,7 +603,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "90 cm",
             height: "80 cm",
             bedSize: "190 x 140 cm"
-        }
+        },
         "kameleon": {
             name:"Kameleon Sofa",
             price: "€",
@@ -613,7 +613,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "95 cm",
             height: "85 cm",
             bedSize: "195 x 140 cm"
-        }
+        },
         "kama": {
             name:"Kama Corner",
             price: "€1050",
@@ -623,7 +623,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "140 cm",
             height: "85 cm",
             bedSize: "200 x 140 cm"
-        }
+        },
         "gama": {
             name:"Gama Corner",
             price: "€920",
@@ -633,7 +633,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "85 cm",
             height: "95 cm",
             bedSize: "195 x 140 cm"
-        }
+        },
         "costa": {
             name:"Costa Sofa",
             price: "€870",
@@ -643,7 +643,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "90 cm",
             height: "80 cm",
             bedSize: "190 x 140 cm"
-        }
+        },
         "korfu": {
             name:"Korfu Corner",
             price: "€___",
@@ -653,7 +653,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "155 cm",
             height: "85 cm",
             bedSize: "195 x 145 cm"
-        }
+        },
         "tulum": {
             name:"Tulum Sofa",
             price: "€1200",
@@ -663,7 +663,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "102 cm",
             height: "92 cm",
             bedSize: ""
-        }
+        },
         "polia": {
             name:"Polia Sofa",
             price: "€1235",
@@ -673,7 +673,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "99 cm",
             height: "93 cm",
             bedSize: "200 cm x 145 cm"
-        }
+        },
         "mataro": {
             name:"Mataro Corner",
             price: "€1840",
@@ -683,7 +683,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "190 cm",
             height: "90-97 cm",
             bedSize: "196 cm x 140 cm"
-        }
+        },
         "bodo": {
             name:"Bodo Corner",
             price: "€1530",
@@ -693,7 +693,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "170 cm",
             height: "90 cm",
             bedSize: "205 cm x 160 cm"
-        }
+        },
         "spello_armchair": {
             name:"Spello Armchair",
             price: "€240",
@@ -703,7 +703,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "90 cm",
             height: "92-110 cm",
             bedSize: ""
-        }
+        },
         "spello_2ppl": {
             name:"Spello Sofa II",
             price: "€1100",
@@ -713,7 +713,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "102 cm",
             height: "92-110 cm",
             bedSize: ""
-        }
+        },
         "spello_3ppl": {
             name:"Spello Sofa III",
             price: "€1420",
@@ -723,7 +723,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "102 cm",
             height: "92-110 cm",
             bedSize: "195 cm x 140 cm"
-        }
+        },
         "spello_corner": {
             name:"Spello Corner",
             price: "€2330",
@@ -733,7 +733,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "180 cm (230 cm with ottoman)",
             height: "97-110 cm",
             bedSize: "140 cm x 230 cm"
-        }
+        },
         "nevada": {
             name:"Nevada Corner",
             price: "€2246",
@@ -743,7 +743,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "170 cm (220 cm with ottoman)",
             height: "95 cm",
             bedSize: "125 cm x 198 cm"
-        }
+        },
         "lahti": {
             name:"Lahti Corner",
             price: "€2150",
@@ -753,7 +753,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "207 cm",
             height: "86 cm",
             bedSize: "235 cm x 152 cm"
-        }
+        },
 
         "akaso_1": {
             name:"Akaso I Corner",
@@ -764,7 +764,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "105 cm",
             height: "90 cm",
             bedSize: "195 cm x 150 cm"
-        }
+        },
          "akaso_2": {
             name:"Akaso II Corner",
             price: "€1350",
@@ -774,7 +774,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "165 cm",
             height: "90 cm",
             bedSize: "195 cm x 150 cm"
-        }
+        },
         "akaso_miz_l": {
             name:"Akaso Mix L",
             price: "€1990",
@@ -784,7 +784,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "165 cm",
             height: "90 cm",
             bedSize: "263 cm x 150 cm"
-        }
+        },
         "akaso_3": {
             name:"Akaso III",
             price: "€1310",
@@ -794,7 +794,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "102 cm",
             height: "90 cm",
             bedSize: "195 cm x 150 cm"
-        }
+        },
         "akaso_armchair": {
             name:"Akaso Armchair",
             price: "€642",
@@ -804,7 +804,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: " ",
             height: " ",
             bedSize: ""
-        }
+        },
         "akaso_ottoman": {
             name:"Akaso Ottoman",
             price: "€190",
@@ -814,7 +814,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: " ",
             height: " ",
             bedSize: ""
-        }
+        },
         "akaso": {
             name:"Akaso ",
             price: "€1190",
@@ -824,7 +824,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "100 cm ",
             height: "90 cm ",
             bedSize: "200 cm x 150 cm"
-        }
+        },
         "espo": {
             name:"Espo Corner ",
             price: "€2220",
@@ -834,7 +834,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "165 cm (210 cm with ottoman) ",
             height: "89 cm ",
             bedSize: "205 cm x 140 cm"
-        }
+        },
         "ronda": {
             name:"Ronda Sofa ",
             price: "€1460",
@@ -844,7 +844,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "100 cm ",
             height: "92 cm ",
             bedSize: "200 cm x 145 cm"
-        }
+        },
         "vertigo_2": {
             name:"Vertigo Corner ",
             price: "€2100",
@@ -854,7 +854,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "265 cm ",
             height: "90-107 cm ",
             bedSize: "215 cm x 130 cm"
-        }
+        },
         "gordon": {
             name:"Gordon Corner ",
             price: "€2090",
@@ -864,7 +864,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "180 cm ",
             height: "95 cm ",
             bedSize: "210 cm x 150 cm"
-        }
+        },
         "davos": {
             name:"Davos Sofa ",
             price: "€1345",
@@ -874,7 +874,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "110 cm ",
             height: "93 cm ",
             bedSize: "204 cm x 155 cm"
-        }
+        },
 
         "gustavo": {
             name:"Gustavo Sofa ",
@@ -885,7 +885,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "106 cm ",
             height: "92 cm ",
             bedSize: "195 cm x 160 cm"
-        }
+        },
 
 
 
