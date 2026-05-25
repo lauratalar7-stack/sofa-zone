@@ -849,7 +849,7 @@ document.addEventListener("DOMContentLoaded", () => {
             name:"Vertigo Corner ",
             price: "€2100",
             image: "/static/vertigo_2.png",
-            description:","
+            description:"",
             width: "170 cm ",
             depth: "265 cm ",
             height: "90-107 cm ",
