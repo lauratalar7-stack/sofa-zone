@@ -846,10 +846,10 @@ document.addEventListener("DOMContentLoaded", () => {
             bedSize: "200 cm x 145 cm"
         },
         "vertigo_2": {
-            name:"Vertigo Corner ",
+            name:"Vertigo Corner 2",
             price: "€2100",
             image: "/static/vertigo_2.png",
-            description:"",
+            description:"Vertigo corner sofa bed is a proposition for a user who appreciates high quality and extraordinary comfort.The furniture has five independent adjustable headrests, an adjustable armrest, a bedding container and a Dolphin folding system.Wooden legs give it lightness.",
             width: "170 cm ",
             depth: "265 cm ",
             height: "90-107 cm ",
