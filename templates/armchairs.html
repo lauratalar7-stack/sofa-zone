@@ -23,6 +23,33 @@
     </nav>
 </header>
 
+
+<section class="homepage">
+<h2> Our Categories:</h2>
+
+<div class="categories">
+  <a href="{{ url_for('corner_sofas') }}" class="category">
+    <img src="{{ url_for('static', filename='tokio.png') }}" alt="Sofa_3">
+    <h3>Corner Sofas</h3>
+  </a>
+
+  <a href="{{ url_for('products') }}" class="category">
+    <img src="{{ url_for('static', filename='lizbona-2ppl.png') }}" alt="Sofa_2">
+    <h3>All Sofas</h3>
+  </a>
+
+  <a href="{{ url_for('sofa_beds') }}" class="category">
+    <img src="{{ url_for('static', filename='boston.png') }}" alt="Sofa_1">
+    <h3>Sofas </h3>
+  </a>
+
+  <a href="{{ url_for('armchairs') }}" class="category">
+    <img src="{{ url_for('static', filename='lizbona-armchair.png') }}" alt="Sofa_1">
+    <h3>Armchairs</h3>
+  </a>
+</div>
+</section>
+
 <header class="products-header">
     <h2>Our Products:</h2>
 </header>
@@ -102,7 +129,7 @@
             <ul>
                 <li><a href="{{ url_for('contact') }}">Contact</a></li>
                 <li><a href="{{ url_for('about') }}">About</a></li>
-                <li><a href="#">Delivery & Returns</a></li>
+                <li><a href="{{ url_for('delivery_returns') }}">Delivery & Returns</a></li>
                 <li><a href="{{ url_for('terms_conditions') }}">Terms & Conditions</a></li>
                 <li><a href="{{ url_for('privacy') }}">Privacy Policy</a></li>
             </ul>

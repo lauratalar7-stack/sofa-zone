@@ -87,7 +87,9 @@ def armchairs():
 def terms_conditions():
     return render_template("terms_conditions.html")
 
-
+@app.route("/delivery-returns")
+def delivery_returns():
+    return render_template("delivery_returns.html")
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))

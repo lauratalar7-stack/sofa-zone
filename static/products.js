@@ -171,7 +171,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "88 cm",
             bedSize: "195 cm x 170 cm"
         },
-        
+
         "lyon": {
             name: "Lyon",
             price: "€1820",
@@ -182,7 +182,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "103 cm",
             bedSize: "195 cm x 130 cm"
         },
-        
+
         "togo_box_right": {
             name: "Togo Box",
             price: "€2780",
@@ -193,7 +193,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "72/77 cm",
             bedSize: "125 cm x 220 cm"
         },
-        
+
         "togo_sofa_1": {
             name: "Togo Sofa",
             price: "€2380",
@@ -204,9 +204,9 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "72/77 cm",
             bedSize: "125cm 220 cm"
         },
-        
 
-        
+
+
         "genua": {
             name:"Genua",
             price: "€1490",
@@ -220,7 +220,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "sofia_corner": {
             name:"Sofia Corner",
             price: "€2100",
-            image: "/static/sofia_sofa.png",
+            image: "/static/sofia_corner.png",
             description: "Sofia is a universal corner and original piece of furniture that will be perfect for relaxing during the day with the family, but also during the evening relaxation with friends, therefore it will fit perfectly into the living room or living room. The seat is made of a soft silicone ball, the backrest is made of highly elastic foam, and loose, quilted cushions can be freely arranged. ",
             width: "270cm",
             depth: "190cm",
@@ -229,8 +229,8 @@ document.addEventListener("DOMContentLoaded", () => {
         },
         "sofia": {
             name:"Sofia Sofa",
-            price: "€1650",
-            image: "/static/sofia_corner.jpg",
+            price: "€1760",
+            image: "/static/sofia_sofa.png",
             description: "Sofia is an original piece of furniture that will be perfect for relaxing during the day with the family, but also during the evening relaxation with friends, which is why it is perfect it will fit into the living room or living room. The seat is made of a soft silicone ball, the backrest is made of highly elastic foam, and loose, quilted cushions can be freely arranged.  ",
             width: "248cm",
             depth: "133cm",
@@ -376,7 +376,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "bergamo_corner": {
             name:"Bergamo Corner",
             price: "€1900",
-            image: "/static/matera.png",
+            image: "/static/bergamo.png",
             description: "Bergamo  has been equipped with a modern folding system, where by lifting the seat you automatically obtain the entire seating area. It has a bedding container with easy access. A characteristic element are raised backrest cushions and “rollers” supporting the lumbar part of the spine. The corrugated spring and the “POCKET” pocket spring system are responsible for the high comfort of the seat.",
             width: "235 cm",
             depth: "85 cm",
@@ -387,7 +387,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "matera": {
             name:"Matera",
             price: "€1140",
-            image: "/static/bergamo.png",
+            image: "/static/matera.png",
             description: "Matera is a piece of furniture designed with a passion for simple forms. The sofa’s character is given by quilting with buttons sewn into the backrest and wooden slats on the sides. It has a container for bedding and a classic unfolding system for sofa beds.",
             width: "225 cm",
             depth: "85 cm",
@@ -506,7 +506,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "venice": {
             name:"Venice Corner",
             price: "€1800",
-            image: "/static/tuscany.png",
+            image: "/static/venice.png",
             description: "A corner with a simple line and modern form with original stitching that makes the piece of furniture look light. It is characterized by high seating comfort thanks to the corrugated spring and the “POCKET” pocket spring system. Its unquestionable advantage is the spacious bedding container and the easy to unfold “puma” sleeping function.",
             width: "235 cm",
             depth: "165 cm",
@@ -625,7 +625,7 @@ document.addEventListener("DOMContentLoaded", () => {
             bedSize: "200 x 140 cm"
         },
         "gama": {
-            name:"Gama Corner",
+            name:"Gama Sofa",
             price: "€920",
             image: "/static/gama.png",
             description: "The range – a combination of the pleasure of sitting and relaxing. The filling of the sofa consists of a high-quality bonnell spring and a solid wood frame on both the seat and the backrest. The sofa has a large, aesthetic container for bedding. Automatic opening aid.",
@@ -886,8 +886,6 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "92 cm ",
             bedSize: "195 cm x 160 cm"
         },
-
-
 
 
     };

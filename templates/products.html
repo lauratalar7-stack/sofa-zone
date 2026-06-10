@@ -175,15 +175,15 @@
 </a>
 
 <a href="{{ url_for('product') }}?id=sofia_corner" class="product">
-    <img src="{{ url_for('static', filename='sofia_sofa.png') }}" alt="Sofia Corner">
+    <img src="{{ url_for('static', filename='sofia_corner.png') }}" alt="Sofia Corner">
     <h2>Sofia Corner</h2>
     <p>€2100</p>
 </a>
 
 <a href="{{ url_for('product') }}?id=sofia" class="product">
-    <img src="{{ url_for('static', filename='sofia_corner.jpg') }}" alt="Sofia Sofa">
+    <img src="{{ url_for('static', filename='sofia_sofa.png') }}" alt="Sofia Sofa">
     <h2>Sofia Sofa</h2>
-    <p>€1650</p>
+    <p>€1760</p>
 </a>
 
 <a href="{{ url_for('product') }}?id=genewa_corner" class="product">
@@ -265,13 +265,13 @@
 </a>
 
 <a href="{{ url_for('product') }}?id=bergamo_corner" class="product">
-    <img src="{{ url_for('static', filename='matera.png') }}" alt="Bergamo Corner">
+    <img src="{{ url_for('static', filename='bergamo.png') }}" alt="Bergamo Corner">
     <h2>Bergamo Corner</h2>
     <p>€1900</p>
 </a>
 
 <a href="{{ url_for('product') }}?id=matera" class="product">
-    <img src="{{ url_for('static', filename='bergamo.png') }}" alt="Matera">
+    <img src="{{ url_for('static', filename='matera.png') }}" alt="Matera">
     <h2>Matera</h2>
     <p>€1140</p>
 </a>
@@ -337,7 +337,7 @@
 </a>
 
 <a href="{{ url_for('product') }}?id=venice" class="product">
-    <img src="{{ url_for('static', filename='tuscany.png') }}" alt="Venice Corner">
+    <img src="{{ url_for('static', filename='venice.png') }}" alt="Venice Corner">
     <h2>Venice Corner</h2>
     <p>€1800</p>
 </a>
@@ -410,7 +410,7 @@
 
 <a href="{{ url_for('product') }}?id=gama" class="product">
     <img src="{{ url_for('static', filename='gama.png') }}" alt="Gama Corner">
-    <h2>Gama Corner</h2>
+    <h2>Gama Sofa</h2>
     <p>€920</p>
 </a>
 
@@ -582,7 +582,7 @@
             <ul>
                 <li><a href="{{ url_for('contact') }}">Contact</a></li>
                 <li><a href="{{ url_for('about') }}">About</a></li>
-                <li><a href="#">Delivery & Returns</a></li>
+                <li><a href="{{ url_for('delivery_returns') }}">Delivery & Returns</a></li>
                 <li><a href="{{ url_for('terms_conditions') }}">Terms & Conditions</a></li>
                 <li><a href="{{ url_for('privacy') }}">Privacy Policy</a></li>
             </ul>

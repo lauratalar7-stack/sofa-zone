@@ -23,6 +23,33 @@
     </nav>
 </header>
 
+
+<section class="homepage">
+<h2> Our Categories:</h2>
+
+<div class="categories">
+  <a href="{{ url_for('corner_sofas') }}" class="category">
+    <img src="{{ url_for('static', filename='tokio.png') }}" alt="Sofa_3">
+    <h3>Corner Sofas</h3>
+  </a>
+
+  <a href="{{ url_for('products') }}" class="category">
+    <img src="{{ url_for('static', filename='lizbona-2ppl.png') }}" alt="Sofa_2">
+    <h3>All Sofas</h3>
+  </a>
+
+  <a href="{{ url_for('sofa_beds') }}" class="category">
+    <img src="{{ url_for('static', filename='boston.png') }}" alt="Sofa_1">
+    <h3>Sofas </h3>
+  </a>
+
+  <a href="{{ url_for('armchairs') }}" class="category">
+    <img src="{{ url_for('static', filename='lizbona-armchair.png') }}" alt="Sofa_1">
+    <h3>Armchairs</h3>
+  </a>
+</div>
+</section>
+
 <header class="products-header">
     <h2>Corner Sofas</h2>
 </header>
@@ -91,7 +118,7 @@
 </a>
 
 <a href="{{ url_for('product') }}?id=sofia_corner" class="product">
-    <img src="{{ url_for('static', filename='sofia_sofa.png') }}" alt="Sofia Corner">
+    <img src="{{ url_for('static', filename='sofia_corner.png') }}" alt="Sofia Corner">
     <h2>Sofia Corner</h2>
     <p>€2100</p>
 </a>
@@ -139,7 +166,7 @@
 </a>
 
 <a href="{{ url_for('product') }}?id=bergamo_corner" class="product">
-    <img src="{{ url_for('static', filename='matera.png') }}" alt="Bergamo Corner">
+    <img src="{{ url_for('static', filename='bergamo.png') }}" alt="Bergamo Corner">
     <h2>Bergamo Corner</h2>
     <p>€1900</p>
 </a>
@@ -151,7 +178,7 @@
 </a>
 
 <a href="{{ url_for('product') }}?id=venice" class="product">
-    <img src="{{ url_for('static', filename='tuscany.png') }}" alt="Venice Corner">
+    <img src="{{ url_for('static', filename='venice.png') }}" alt="Venice Corner">
     <h2>Venice Corner</h2>
     <p>€1800</p>
 </a>
@@ -186,11 +213,6 @@
     <p>€1050</p>
 </a>
 
-<a href="{{ url_for('product') }}?id=gama" class="product">
-    <img src="{{ url_for('static', filename='gama.png') }}" alt="Gama Corner">
-    <h2>Gama Corner</h2>
-    <p>€920</p>
-</a>
 
 <a href="{{ url_for('product') }}?id=korfu" class="product">
     <img src="{{ url_for('static', filename='korfu.png') }}" alt="Korfu Corner">
@@ -284,7 +306,7 @@
             <ul>
                 <li><a href="{{ url_for('contact') }}">Contact</a></li>
                 <li><a href="{{ url_for('about') }}">About</a></li>
-                <li><a href="#">Delivery & Returns</a></li>
+                <li><a href="{{ url_for('delivery_returns') }}">Delivery & Returns</a></li>
                 <li><a href="{{ url_for('terms_conditions') }}">Terms & Conditions</a></li>
                 <li><a href="{{ url_for('privacy') }}">Privacy Policy</a></li>
             </ul>

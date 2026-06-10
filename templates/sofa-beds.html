@@ -23,6 +23,34 @@
     </nav>
 </header>
 
+
+<section class="homepage">
+<h2> Our Categories:</h2>
+
+<div class="categories">
+  <a href="{{ url_for('corner_sofas') }}" class="category">
+    <img src="{{ url_for('static', filename='tokio.png') }}" alt="Sofa_3">
+    <h3>Corner Sofas</h3>
+  </a>
+
+
+  <a href="{{ url_for('products') }}" class="category">
+    <img src="{{ url_for('static', filename='lizbona-2ppl.png') }}" alt="Sofa_2">
+    <h3>All Sofas</h3>
+  </a>
+
+  <a href="{{ url_for('sofa_beds') }}" class="category">
+    <img src="{{ url_for('static', filename='boston.png') }}" alt="Sofa_1">
+    <h3>Sofas </h3>
+  </a>
+
+  <a href="{{ url_for('armchairs') }}" class="category">
+    <img src="{{ url_for('static', filename='lizbona-armchair.png') }}" alt="Sofa_1">
+    <h3>Armchairs</h3>
+  </a>
+</div>
+</section>
+
 <header class="products-header">
     <h2>Sofas :</h2>
 </header>
@@ -46,6 +74,12 @@
     <img src="{{ url_for('static', filename='angus.png') }}" alt="Angus">
     <h2>Angus</h2>
     <p>€890</p>
+</a>
+
+<a href="{{ url_for('product') }}?id=gama" class="product">
+    <img src="{{ url_for('static', filename='gama.png') }}" alt="Gama Corner">
+    <h2>Gama Sofa</h2>
+    <p>€920</p>
 </a>
 
 <a href="{{ url_for('product') }}?id=boston" class="product">
@@ -85,9 +119,9 @@
 </a>
 
 <a href="{{ url_for('product') }}?id=sofia" class="product">
-    <img src="{{ url_for('static', filename='sofia_corner.jpg') }}" alt="Sofia Sofa">
+    <img src="{{ url_for('static', filename='sofia_sofa.png') }}" alt="Sofia Sofa">
     <h2>Sofia Sofa</h2>
-    <p>€1650</p>
+    <p>€1760</p>
 </a>
 
 <a href="{{ url_for('product') }}?id=cayenne_sofa" class="product">
@@ -115,7 +149,7 @@
 </a>
 
 <a href="{{ url_for('product') }}?id=matera" class="product">
-    <img src="{{ url_for('static', filename='bergamo.png') }}" alt="Matera">
+    <img src="{{ url_for('static', filename='matera.png') }}" alt="Matera">
     <h2>Matera</h2>
     <p>€1140</p>
 </a>
@@ -264,7 +298,7 @@
             <ul>
                 <li><a href="{{ url_for('contact') }}">Contact</a></li>
                 <li><a href="{{ url_for('about') }}">About</a></li>
-                <li><a href="#">Delivery & Returns</a></li>
+                <li><a href="{{ url_for('delivery_returns') }}">Delivery & Returns</a></li>
                 <li><a href="{{ url_for('terms_conditions') }}">Terms & Conditions</a></li>
                 <li><a href="{{ url_for('privacy') }}">Privacy Policy</a></li>
             </ul>
@@ -286,4 +320,5 @@
 </footer>
 
 </body>
+
 </html>
