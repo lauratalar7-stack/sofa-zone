@@ -8,7 +8,11 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "260 cm",
             depth: "170 cm",
             height: "100 cm",
-            bedSize: "210 cm x 125 cm"
+            bedSize: "210 cm x 125 cm",
+            gallery: [
+                "/static/lizbona/lizbona-1b.png",
+                "/static/lizbona/lizbona-1c.png"
+            ]
         },
 
         "lizbona-ll": {
@@ -19,7 +23,11 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "255 cm",
             depth: "205 cm",
             height: "100 cm",
-            bedSize: "195 cm x 125 cm"
+            bedSize: "195 cm x 125 cm",
+            gallery: [
+                "/static/lizbona/lizbona-2b.png",
+                "/static/lizbona/lizbona-2c.png"
+            ]
         },
 
         "lizbona-fotel": {
@@ -29,7 +37,10 @@ document.addEventListener("DOMContentLoaded", () => {
             description: "Soft cushioning and a generously padded seat ensure exceptional comfort, while the contoured backrest provides proper support for relaxed sitting throughout the day. Subtly curved armrests add a touch of elegance and enhance the overall comfort of use. Designed to complement the Lisbon sofa set, the armchair combines style and functionality, making it a perfect addition to both modern living rooms and more classic interiors. Its stable construction and refined finish ensure durability, while its compact form allows it to fit seamlessly into any space, whether used as a standalone piece or part of a larger set.",
             width: "92 cm",
             depth: "96 cm",
-            height: "100cm"
+            height: "100cm",
+            gallery: [
+                "/static/lizbona/lizbona-armchair-b.png"
+            ]
         },
 
         "lizbona-2os": {
@@ -39,7 +50,10 @@ document.addEventListener("DOMContentLoaded", () => {
             description: "Soft and comfortable seats, ergonomically shaped backrests, and gently rounded armrests make this set perfect for everyday use as well as for hosting guests. Thanks to the Dolphin-style pull-out function in the larger sofa, the Lisbon set can also serve as a comfortable bed for daytime rest. The two-seater sofa is equipped with a practical storage compartment for bedding, further enhancing its functionality.",
             width: "172 cm",
             depth: "96 cm",
-            height: "100 cm"
+            height: "100 cm",
+            gallery: [
+                "/static/lizbona/lizbona-2ppl-b.png"
+            ]
         },
 
         "lizbona-3os": {
@@ -49,7 +63,10 @@ document.addEventListener("DOMContentLoaded", () => {
             description: "Soft and comfortable seats, ergonomically shaped backrests, and gently rounded armrests make this set perfect for everyday use as well as for hosting guests. Thanks to the Dolphin-style pull-out function in the larger sofa, the Lisbon set can also serve as a comfortable bed for daytime rest. The two-seater sofa is equipped with a practical storage compartment for bedding, further enhancing its functionality.",
             width: "237 cm",
             depth: "96 cm",
-            height: "100 cm"
+            height: "100 cm",
+            gallery: [
+                "/static/lizbona/lizbona-3ppl-b.png"
+            ]
         },
 
         "rio": {
@@ -60,7 +77,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "255 cm",
             depth: "175 cm, 220cm with pouf",
             height: "97-110 cm",
-            bedSize: "205 cm x 140 cm"
+            bedSize: "205 cm x 140 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "ottawa": {
@@ -72,7 +95,13 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "210 cm",
             height: "95 cm",
             bedSize: "200 cm x 130 cm",
-            leg: "8 cm, metal, matte black."
+            leg: "8 cm, metal, matte black.",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "bari": {
@@ -84,7 +113,13 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "185 cm",
             height: "90/97 cm",
             bedSize: "190 cm x 130 cm",
-            leg: "8 cm, wood"
+            leg: "8 cm, wood",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "tokio": {
@@ -96,7 +131,13 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "173 cm, 220cm with pouf",
             height: "90-105 cm",
             bedSize: "205 cm x 140 cm",
-            leg: "6 cm, wood"
+            leg: "6 cm, wood",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "malmo": {
@@ -108,7 +149,13 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "156 cm",
             height: "90 cm",
             bedSize: "195 cm x 140 cm",
-            leg: "10 cm, wood"
+            leg: "10 cm, wood",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "angus": {
@@ -119,7 +166,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "190 cm",
             depth: "90 cm",
             height: "80 cm",
-            bedSize: "190 cm x 140 cm"
+            bedSize: "190 cm x 140 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "boston": {
@@ -130,7 +183,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "240 cm",
             depth: "110 cm",
             height: "90 cm",
-            bedSize: "200 cm x 160 cm"
+            bedSize: "200 cm x 160 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "bella": {
@@ -141,14 +200,26 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "235 cm",
             depth: "115 cm",
             height: "98 cm",
-            bedSize: "200 cm x 160 cm"
+            bedSize: "200 cm x 160 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "napoli": {
             name: "Napoli",
             price: "€2349",
             image: "/static/napoli.png",
-            description: "This modern corner sofa combines functionality, comfort, and innovative design. It is equipped with an electric extension system that allows you to effortlessly adjust the seating depth, creating the perfect space for relaxation. The model also features a practical bedding storage compartment, offering extra convenience and helping to keep your living space organized. Available in two versions: Corner sofa with electric extension and bedding storage – €2539, Straight sofa with electric extension – €2349.  Designed with everyday comfort in mind, it is an ideal choice for those who value both practicality and modern living solutions."
+            description: "This modern corner sofa combines functionality, comfort, and innovative design. It is equipped with an electric extension system that allows you to effortlessly adjust the seating depth, creating the perfect space for relaxation. The model also features a practical bedding storage compartment, offering extra convenience and helping to keep your living space organized. Available in two versions: Corner sofa with electric extension and bedding storage – €2539, Straight sofa with electric extension – €2349.  Designed with everyday comfort in mind, it is an ideal choice for those who value both practicality and modern living solutions.",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "fiord_mini": {
             name: "Fiord Mini",
@@ -158,7 +229,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "230 cm",
             depth: "120 cm",
             height: "86 cm",
-            bedSize: "200 cm x 160 cm"
+            bedSize: "200 cm x 160 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "sofia_mini": {
@@ -169,7 +246,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "230 cm",
             depth: "120 cm",
             height: "88 cm",
-            bedSize: "195 cm x 170 cm"
+            bedSize: "195 cm x 170 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "lyon": {
@@ -180,7 +263,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "235 cm",
             depth: "165 cm",
             height: "103 cm",
-            bedSize: "195 cm x 130 cm"
+            bedSize: "195 cm x 130 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "togo_box_right": {
@@ -191,7 +280,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "286 cm",
             depth: "207 cm",
             height: "72/77 cm",
-            bedSize: "125 cm x 220 cm"
+            bedSize: "125 cm x 220 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "togo_sofa_1": {
@@ -202,9 +297,14 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "302 cm",
             depth: "136 cm",
             height: "72/77 cm",
-            bedSize: "125cm 220 cm"
+            bedSize: "125cm 220 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
-
 
 
         "genua": {
@@ -215,7 +315,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "220cm",
             depth: "160cm",
             height: "90/97cm",
-            bedSize: "195 cm x 130 cm"
+            bedSize: "195 cm x 130 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "sofia_corner": {
             name:"Sofia Corner",
@@ -225,7 +331,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "270cm",
             depth: "190cm",
             height: "88cm",
-            bedSize: "230 cm x 170 cm"
+            bedSize: "230 cm x 170 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "sofia": {
             name:"Sofia Sofa",
@@ -235,7 +347,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "248cm",
             depth: "133cm",
             height: "98cm",
-            bedSize: "200 cm x 180 cm"
+            bedSize: "200 cm x 180 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "genewa_corner": {
@@ -246,7 +364,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "255cm",
             depth: "200cm",
             height: "95-104cm",
-            bedSize: "205 cm x 140 cm"
+            bedSize: "205 cm x 140 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "vertigo_corner": {
             name:"Veritgo Corner",
@@ -256,7 +380,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "267cm",
             depth: "215cm",
             height: "90-105cm",
-            bedSize: "200 cm x 130 cm"
+            bedSize: "200 cm x 130 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "toronto_corner": {
             name:"Toronto Corner",
@@ -266,7 +396,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "270cm",
             depth: "170cm",
             height: "90-95cm",
-            bedSize: "210 cm x 130 cm"
+            bedSize: "210 cm x 130 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "cayenne_sofa": {
             name:"Cayenne Sofa",
@@ -276,7 +412,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "228cm",
             depth: "100cm",
             height: "90-103cm",
-            bedSize: "195 cm x 155 cm"
+            bedSize: "195 cm x 155 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "cayenne_armchair": {
@@ -287,8 +429,15 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "80cm",
             depth: "90cm",
             height: "90cm",
-            bedSize: ""
+            bedSize: "",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
+
         "macan_sofa": {
             name:"Macan Sofa",
             price: "€1440",
@@ -297,7 +446,14 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "230cm",
             depth: "100cm",
             height: "95-105cm",
-            bedSize: "195 x 150 cm"
+            bedSize: "195 x 150 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
+
         },
         "macan_armchair": {
             name:"Macan Armchair",
@@ -307,8 +463,15 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "80cm",
             depth: "90cm",
             height: "90cm",
-            bedSize: ""
+            bedSize: "",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
+
         "asti_sofa": {
             name:"Asti Sofa",
             price: "€1235",
@@ -317,8 +480,15 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "255cm",
             depth: "99cm",
             height: "92cm",
-            bedSize: ""
+            bedSize: "",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
+
         "yoko_sofa": {
             name:"Yoko Sofa",
             price: "€1280",
@@ -327,8 +497,15 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "230cm",
             depth: "95cm",
             height: "93cm",
-            bedSize: "200 x 145 cm"
+            bedSize: "200 x 145 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
+
         "yoko_corner": {
             name:"Yoko Corner",
             price: "€1500",
@@ -337,7 +514,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "245cm",
             depth: "143cm",
             height: "90cm",
-            bedSize: "200 x 145 cm"
+            bedSize: "200 x 145 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "olsen_corner": {
@@ -348,7 +531,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "225cm",
             depth: "150cm",
             height: "92cm",
-            bedSize: "205 x 140 cm"
+            bedSize: "205 x 140 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "pori_corner": {
@@ -359,7 +548,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "230cm",
             depth: "155cm",
             height: "90cm",
-            bedSize: "140 x 195 cm"
+            bedSize: "140 x 195 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "mediolan_corner": {
@@ -370,7 +565,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "235cm",
             depth: "165cm",
             height: "90-102cm",
-            bedSize: "195 x 130 cm"
+            bedSize: "195 x 130 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "bergamo_corner": {
@@ -381,7 +582,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "235 cm",
             depth: "85 cm",
             height: "90-102cm",
-            bedSize: "195 x 130 cm"
+            bedSize: "195 x 130 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "matera": {
@@ -392,7 +599,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "225 cm",
             depth: "85 cm",
             height: "95 cm",
-            bedSize: "195 x 120 cm"
+            bedSize: "195 x 120 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
          "matera_armchair": {
@@ -403,6 +616,12 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "75 cm",
             depth: "80 cm",
             height: "90 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
 
         },
          "katania": {
@@ -413,7 +632,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "230 cm",
             depth: "90 cm",
             height: "95 cm",
-            bedSize: "195 x 120 cm"
+            bedSize: "195 x 120 cm",
+             gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "latina": {
@@ -424,7 +649,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "223 cm",
             depth: "92 cm",
             height: "97 cm",
-            bedSize: "195 x 120 cm"
+            bedSize: "195 x 120 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "latina_armchair": {
@@ -435,7 +666,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "",
             depth: "83 cm",
             height: "97 cm",
-            bedSize: ""
+            bedSize: "",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "carrera": {
@@ -446,7 +683,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "228 cm",
             depth: "100 cm",
             height: "93-103 cm",
-            bedSize: "195 x 155 cm"
+            bedSize: "195 x 155 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "venus": {
@@ -457,7 +700,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "196 cm",
             depth: "98 cm",
             height: "87 cm",
-            bedSize: "217 x 198 cm"
+            bedSize: "217 x 198 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "mars": {
@@ -468,7 +717,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "196 cm",
             depth: "98 cm",
             height: "87 cm",
-            bedSize: "217 x 198 cm"
+            bedSize: "217 x 198 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "capri": {
@@ -479,7 +734,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "230 cm",
             depth: "85 cm",
             height: "100 cm",
-            bedSize: "195 x 155 cm"
+            bedSize: "195 x 155 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "lugano": {
@@ -490,7 +751,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "235 cm",
             depth: "100 cm",
             height: "85 cm",
-            bedSize: "195 x 150 cm"
+            bedSize: "195 x 150 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "tuscany": {
@@ -501,7 +768,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "270 cm",
             depth: "165 cm",
             height: "100-115 cm",
-            bedSize: "200 x 130 cm"
+            bedSize: "200 x 130 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "venice": {
             name:"Venice Corner",
@@ -511,7 +784,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "235 cm",
             depth: "165 cm",
             height: "90 cm",
-            bedSize: "195 x 140 cm"
+            bedSize: "195 x 140 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "torino": {
             name:"Torino Corner",
@@ -521,7 +800,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "243 cm",
             depth: "182 cm",
             height: "102 cm",
-            bedSize: "190 x 130 cm"
+            bedSize: "190 x 130 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "oslo": {
             name:"Oslo Corner",
@@ -531,7 +816,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "235 cm",
             depth: "160 cm",
             height: "115 cm",
-            bedSize: "195 x 125 cm"
+            bedSize: "195 x 125 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "andoria": {
             name:"Andoria Sofa",
@@ -541,7 +832,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "210 cm",
             depth: "102 cm",
             height: "96 cm",
-            bedSize: "210 x 160 cm"
+            bedSize: "210 x 160 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "pheonix": {
             name:"Pheonix Sofa",
@@ -551,7 +848,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "210 cm",
             depth: "105 cm",
             height: "86 cm",
-            bedSize: "210 x 160 cm"
+            bedSize: "210 x 160 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "murano": {
             name:"Murano Corner",
@@ -561,7 +864,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "270 cm",
             depth: "170 cm",
             height: "95 cm",
-            bedSize: "230 x 150 cm"
+            bedSize: "230 x 150 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
          "carerra_corner": {
             name:"Carerra Corner",
@@ -571,7 +880,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "315 cm",
             depth: "220 cm",
             height: "92 cm",
-            bedSize: "275 x 155 cm"
+            bedSize: "275 x 155 cm",
+             gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "szezlong": {
             name:"Szezlong Armchair",
@@ -581,7 +896,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "60 cm",
             depth: "150 cm",
             height: "70-85 cm",
-            bedSize: ""
+            bedSize: "",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "relax": {
             name:"Relax Armchair",
@@ -591,7 +912,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "80 cm",
             depth: "84 cm",
             height: "105 cm",
-            bedSize: ""
+            bedSize: "",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "kreta": {
@@ -602,7 +929,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "190 cm",
             depth: "90 cm",
             height: "80 cm",
-            bedSize: "190 x 140 cm"
+            bedSize: "190 x 140 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "kameleon": {
             name:"Kameleon Sofa",
@@ -612,7 +945,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "195 cm",
             depth: "95 cm",
             height: "85 cm",
-            bedSize: "195 x 140 cm"
+            bedSize: "195 x 140 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "kama": {
             name:"Kama Corner",
@@ -622,7 +961,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "203 cm",
             depth: "140 cm",
             height: "85 cm",
-            bedSize: "200 x 140 cm"
+            bedSize: "200 x 140 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "gama": {
             name:"Gama Sofa",
@@ -632,7 +977,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "195 cm",
             depth: "85 cm",
             height: "95 cm",
-            bedSize: "195 x 140 cm"
+            bedSize: "195 x 140 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "costa": {
             name:"Costa Sofa",
@@ -642,7 +993,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "190 cm",
             depth: "90 cm",
             height: "80 cm",
-            bedSize: "190 x 140 cm"
+            bedSize: "190 x 140 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "korfu": {
             name:"Korfu Corner",
@@ -652,7 +1009,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "230 cm",
             depth: "155 cm",
             height: "85 cm",
-            bedSize: "195 x 145 cm"
+            bedSize: "195 x 145 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "tulum": {
             name:"Tulum Sofa",
@@ -662,7 +1025,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "200 cm",
             depth: "102 cm",
             height: "92 cm",
-            bedSize: ""
+            bedSize: "",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "polia": {
             name:"Polia Sofa",
@@ -672,7 +1041,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "225 cm",
             depth: "99 cm",
             height: "93 cm",
-            bedSize: "200 cm x 145 cm"
+            bedSize: "200 cm x 145 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "mataro": {
             name:"Mataro Corner",
@@ -682,7 +1057,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "255 cm",
             depth: "190 cm",
             height: "90-97 cm",
-            bedSize: "196 cm x 140 cm"
+            bedSize: "196 cm x 140 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "bodo": {
             name:"Bodo Corner",
@@ -692,7 +1073,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "240 cm",
             depth: "170 cm",
             height: "90 cm",
-            bedSize: "205 cm x 160 cm"
+            bedSize: "205 cm x 160 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "spello_armchair": {
             name:"Spello Armchair",
@@ -702,7 +1089,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "95 cm",
             depth: "90 cm",
             height: "92-110 cm",
-            bedSize: ""
+            bedSize: "",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "spello_2ppl": {
             name:"Spello Sofa II",
@@ -712,7 +1105,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "140 cm",
             depth: "102 cm",
             height: "92-110 cm",
-            bedSize: ""
+            bedSize: "",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "spello_3ppl": {
             name:"Spello Sofa III",
@@ -722,7 +1121,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "230 cm",
             depth: "102 cm",
             height: "92-110 cm",
-            bedSize: "195 cm x 140 cm"
+            bedSize: "195 cm x 140 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "spello_corner": {
             name:"Spello Corner",
@@ -732,7 +1137,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "265 cm",
             depth: "180 cm (230 cm with ottoman)",
             height: "97-110 cm",
-            bedSize: "140 cm x 230 cm"
+            bedSize: "140 cm x 230 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "nevada": {
             name:"Nevada Corner",
@@ -742,7 +1153,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "260 cm",
             depth: "170 cm (220 cm with ottoman)",
             height: "95 cm",
-            bedSize: "125 cm x 198 cm"
+            bedSize: "125 cm x 198 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "lahti": {
             name:"Lahti Corner",
@@ -752,7 +1169,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "268 cm",
             depth: "207 cm",
             height: "86 cm",
-            bedSize: "235 cm x 152 cm"
+            bedSize: "235 cm x 152 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "akaso_1": {
@@ -763,7 +1186,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "220 cm",
             depth: "105 cm",
             height: "90 cm",
-            bedSize: "195 cm x 150 cm"
+            bedSize: "195 cm x 150 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
          "akaso_2": {
             name:"Akaso II Corner",
@@ -773,7 +1202,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "220 cm",
             depth: "165 cm",
             height: "90 cm",
-            bedSize: "195 cm x 150 cm"
+            bedSize: "195 cm x 150 cm",
+             gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "akaso_miz_l": {
             name:"Akaso Mix L",
@@ -783,7 +1218,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "287 cm",
             depth: "165 cm",
             height: "90 cm",
-            bedSize: "263 cm x 150 cm"
+            bedSize: "263 cm x 150 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "akaso_3": {
             name:"Akaso III",
@@ -793,7 +1234,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "220cm",
             depth: "102 cm",
             height: "90 cm",
-            bedSize: "195 cm x 150 cm"
+            bedSize: "195 cm x 150 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "akaso_armchair": {
             name:"Akaso Armchair",
@@ -803,7 +1250,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: " ",
             depth: " ",
             height: " ",
-            bedSize: ""
+            bedSize: "",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "akaso_ottoman": {
             name:"Akaso Ottoman",
@@ -813,7 +1266,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: " ",
             depth: " ",
             height: " ",
-            bedSize: ""
+            bedSize: "",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "akaso": {
             name:"Akaso ",
@@ -823,7 +1282,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "197 cm ",
             depth: "100 cm ",
             height: "90 cm ",
-            bedSize: "200 cm x 150 cm"
+            bedSize: "200 cm x 150 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "espo": {
             name:"Espo Corner ",
@@ -833,7 +1298,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "255 cm ",
             depth: "165 cm (210 cm with ottoman) ",
             height: "89 cm ",
-            bedSize: "205 cm x 140 cm"
+            bedSize: "205 cm x 140 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "ronda": {
             name:"Ronda Sofa ",
@@ -843,7 +1314,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "232 cm ",
             depth: "100 cm ",
             height: "92 cm ",
-            bedSize: "200 cm x 145 cm"
+            bedSize: "200 cm x 145 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "vertigo_2": {
             name:"Vertigo Corner 2",
@@ -853,7 +1330,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "170 cm ",
             depth: "265 cm ",
             height: "90-107 cm ",
-            bedSize: "215 cm x 130 cm"
+            bedSize: "215 cm x 130 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "gordon": {
             name:"Gordon Corner ",
@@ -863,7 +1346,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "255 cm ",
             depth: "180 cm ",
             height: "95 cm ",
-            bedSize: "210 cm x 150 cm"
+            bedSize: "210 cm x 150 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
         "davos": {
             name:"Davos Sofa ",
@@ -873,7 +1362,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "204 cm ",
             depth: "110 cm ",
             height: "93 cm ",
-            bedSize: "204 cm x 155 cm"
+            bedSize: "204 cm x 155 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
         "gustavo": {
@@ -884,7 +1379,13 @@ document.addEventListener("DOMContentLoaded", () => {
             width: "235 cm ",
             depth: "106 cm ",
             height: "92 cm ",
-            bedSize: "195 cm x 160 cm"
+            bedSize: "195 cm x 160 cm",
+            gallery: [
+                "/static/rio/rio-b.png",
+                "/static/rio/rio-c.png",
+                "/static/rio/rio-d.png",
+                "/static/rio/rio-e.png"
+            ]
         },
 
 
@@ -899,9 +1400,12 @@ document.addEventListener("DOMContentLoaded", () => {
         document.getElementById("product-price").textContent = product.price;
         document.getElementById("product-image").src = product.image;
         document.getElementById("product-description").textContent = product.description;
+
         document.getElementById("product-width").textContent = "Width: " + product.width;
         document.getElementById("product-depth").textContent = "Depth: " + product.depth;
         document.getElementById("product-height").textContent = "Height: " + product.height;
         document.getElementById("product-bedSize").textContent = "Bed Size: " + product.bedSize;
+
     }
 });
+
