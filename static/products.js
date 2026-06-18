@@ -161,10 +161,9 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "80 cm",
             bedSize: "190 cm x 140 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/angus/angus-b.png",
+                "/static/angus/angus-c.png",
+                "/static/angus/angus-d.png"
             ]
         },
 
@@ -178,10 +177,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90 cm",
             bedSize: "200 cm x 160 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/boston/boston-b.png"
             ]
         },
 
@@ -195,10 +191,9 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "98 cm",
             bedSize: "200 cm x 160 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/bella/bella-b.png",
+                "/static/bella/bella-c.png",
+                "/static/bella/bella-d.png"
             ]
         },
 
@@ -208,10 +203,9 @@ document.addEventListener("DOMContentLoaded", () => {
             image: "/static/napoli/napoli.png",
             description: "This modern corner sofa combines functionality, comfort, and innovative design. It is equipped with an electric extension system that allows you to effortlessly adjust the seating depth, creating the perfect space for relaxation. The model also features a practical bedding storage compartment, offering extra convenience and helping to keep your living space organized. Available in two versions: Corner sofa with electric extension and bedding storage – €2539, Straight sofa with electric extension – €2349.  Designed with everyday comfort in mind, it is an ideal choice for those who value both practicality and modern living solutions.",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/napoli/napoli-b.png",
+                "/static/napoli/napoli-c.png",
+                "/static/napoli/napoli-d.png"
             ]
         },
         "fiord_mini": {
@@ -224,10 +218,10 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "86 cm",
             bedSize: "200 cm x 160 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/fiord_mini/fiord_mini-b.png",
+                "/static/fiord_mini/fiord_mini-c.png",
+                "/static/fiord_mini/fiord_mini-d.png",
+                "/static/fiord_mini/fiord_mini-e.png"
             ]
         },
 
@@ -241,10 +235,10 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "88 cm",
             bedSize: "195 cm x 170 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/sofia/sofia_mini-b.png",
+                "/static/sofia/sofia_mini-c.png",
+                "/static/sofia/sofia_mini-d.png",
+                "/static/sofia/sofia_mini-d.png"
             ]
         },
 
@@ -258,10 +252,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "103 cm",
             bedSize: "195 cm x 130 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/lyon/lyon-b.png"
             ]
         },
 
@@ -275,10 +266,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "72/77 cm",
             bedSize: "125 cm x 220 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/togo/togo_box-b.png"
             ]
         },
 
@@ -292,10 +280,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "72/77 cm",
             bedSize: "125cm 220 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/togo/togo-b.png"
             ]
         },
 
@@ -310,10 +295,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90/97cm",
             bedSize: "195 cm x 130 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/genua/genua-b.png",
+                "/static/genua/genua-c.png"
             ]
         },
         "sofia_corner": {
@@ -326,10 +309,9 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "88cm",
             bedSize: "230 cm x 170 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/sofia/sofia_corner-b.png",
+                "/static/sofia/sofia_corner-c.png",
+                "/static/sofia/sofia_corner-d.png"
             ]
         },
         "sofia": {
@@ -342,10 +324,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "98cm",
             bedSize: "200 cm x 180 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/sofia/sofia_sofa-b.png",
+                "/static/sofia/sofia_sofa-c.png"
             ]
         },
 
@@ -359,10 +339,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "95-104cm",
             bedSize: "205 cm x 140 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/genewa/genewa_corner-b.png"
             ]
         },
         "vertigo_corner": {
@@ -375,10 +352,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90-105cm",
             bedSize: "200 cm x 130 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/vertigo/vertigo-b.png",
+                "/static/vertigo/vertigo-c.png"
             ]
         },
         "toronto_corner": {
@@ -391,10 +366,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90-95cm",
             bedSize: "210 cm x 130 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/toronto/toronto-b.png"
             ]
         },
         "cayenne_sofa": {
@@ -407,10 +379,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90-103cm",
             bedSize: "195 cm x 155 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/cayenne/cayenne-b.png"
             ]
         },
 
@@ -424,10 +393,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90cm",
             bedSize: "",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/cayenne/cayenne_armchair-b.png"
             ]
         },
 
@@ -441,10 +407,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "95-105cm",
             bedSize: "195 x 150 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/macan/macan-b.png",
+                "/static/macan/macan-c.png"
             ]
 
         },
@@ -458,10 +422,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90cm",
             bedSize: "",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/macan/macan_armchair-b.png"
             ]
         },
 
@@ -475,10 +436,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "92cm",
             bedSize: "",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/asti/asti-b.png",
+                "/static/asti/asti-c.png"
             ]
         },
 
@@ -492,10 +451,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "93cm",
             bedSize: "200 x 145 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/yoko/yoko-b.png",
+                "/static/yoko/yoko-c.png"
             ]
         },
 
@@ -509,10 +466,9 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90cm",
             bedSize: "200 x 145 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/yoko/yoko_corner-b.png",
+                "/static/yoko/yoko_corner-c.png",
+                "/static/yoko/yoko_corner-d.png"
             ]
         },
 
@@ -526,10 +482,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "92cm",
             bedSize: "205 x 140 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/olso/olso-b.png",
+                "/static/olso/olso-c.png"
             ]
         },
 
@@ -543,10 +497,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90cm",
             bedSize: "140 x 195 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/pori/pori-b.png",
+                "/static/pori/pori-c.png"
             ]
         },
 
@@ -560,10 +512,9 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90-102cm",
             bedSize: "195 x 130 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/mediolan/mediolan-b.png",
+                "/static/mediolan/mediolan-c.png",
+                "/static/mediolan/mediolan-d.png"
             ]
         },
 
@@ -577,10 +528,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90-102cm",
             bedSize: "195 x 130 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/bergamo/bergamo-b.png",
+                "/static/bergamo/bergamo-c.png"
             ]
         },
 
@@ -594,10 +543,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "95 cm",
             bedSize: "195 x 120 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/matera/matera-b.png",
+                "/static/matera/matera-c.png"
             ]
         },
 
@@ -610,10 +557,7 @@ document.addEventListener("DOMContentLoaded", () => {
             depth: "80 cm",
             height: "90 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/matera/matera_armchair-b.png"
             ]
 
         },
@@ -627,10 +571,9 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "95 cm",
             bedSize: "195 x 120 cm",
              gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/katania/katania-b.png",
+                "/static/katania/katania-c.png",
+                "/static/katania/katania-d.png"
             ]
         },
 
@@ -644,10 +587,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "97 cm",
             bedSize: "195 x 120 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/latina/latina-b.png",
+                "/static/latina/latina-c.png"
             ]
         },
 
@@ -661,10 +602,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "97 cm",
             bedSize: "",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/latina/latina_armchair-b.png"
             ]
         },
 
@@ -678,10 +616,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "93-103 cm",
             bedSize: "195 x 155 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/carerra/carrera-b.png",
+                "/static/carerra/carrera-c.png"
             ]
         },
 
@@ -695,10 +631,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "87 cm",
             bedSize: "217 x 198 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/venus/venus-b.png"
             ]
         },
 
@@ -712,10 +645,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "87 cm",
             bedSize: "217 x 198 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/mars/mars-b.png"
             ]
         },
 
@@ -729,10 +659,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "100 cm",
             bedSize: "195 x 155 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/capri/capri-b.png"
             ]
         },
 
@@ -746,10 +673,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "85 cm",
             bedSize: "195 x 150 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/lugano/lugano-b.png",
+                "/static/lugano/lugano-c.png"
             ]
         },
 
@@ -763,10 +688,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "100-115 cm",
             bedSize: "200 x 130 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/tuscany/tuscany-b.png",
+                "/static/tuscany/tuscany-c.png"
             ]
         },
         "venice": {
@@ -779,10 +702,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90 cm",
             bedSize: "195 x 140 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/venice/venice-b.png",
+                "/static/venice/venice-c.png"
             ]
         },
         "torino": {
@@ -795,10 +716,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "102 cm",
             bedSize: "190 x 130 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/torino/torino-b.png",
+                "/static/torino/torino-c.png"
             ]
         },
         "oslo": {
@@ -811,10 +730,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "115 cm",
             bedSize: "195 x 125 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/oslo/oslo-b.png",
+                "/static/oslo/oslo-c.png"
             ]
         },
         "andoria": {
@@ -827,10 +744,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "96 cm",
             bedSize: "210 x 160 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/andoria/andoria-b.png"
             ]
         },
         "pheonix": {
@@ -843,10 +757,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "86 cm",
             bedSize: "210 x 160 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/pheonix/pheonix-b.png",
+                "/static/pheonix/pheonix-c.png"
             ]
         },
         "murano": {
@@ -859,10 +771,9 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "95 cm",
             bedSize: "230 x 150 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/murano/murano-b.png",
+                "/static/murano/murano-c.png",
+                "/static/murano/murano-d.png"
             ]
         },
          "carerra_corner": {
@@ -875,10 +786,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "92 cm",
             bedSize: "275 x 155 cm",
              gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/carerra/carrera_corner-b.png",
+                "/static/carerra/carrera_corner-c.png"
             ]
         },
         "szezlong": {
@@ -891,10 +800,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "70-85 cm",
             bedSize: "",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/szezlong/szezlong-b.png"
             ]
         },
         "relax": {
@@ -907,10 +813,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "105 cm",
             bedSize: "",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/relax/relax-b.png",
+                "/static/relax/relax-c.png"
             ]
         },
 
@@ -924,10 +828,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "80 cm",
             bedSize: "190 x 140 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/kreta/kreta-b.png",
+                "/static/kreta/kreta-c.png"
             ]
         },
         "kameleon": {
@@ -940,10 +842,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "85 cm",
             bedSize: "195 x 140 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/kameleon/kameleon-b.png",
+                "/static/kameleon/kameleon-c.png"
             ]
         },
         "kama": {
@@ -956,10 +856,10 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "85 cm",
             bedSize: "200 x 140 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/kama/kama-b.png",
+                "/static/kama/kama-c.png",
+                "/static/kama/kama-d.png",
+                "/static/kama/kama-e.png"
             ]
         },
         "gama": {
@@ -972,10 +872,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "95 cm",
             bedSize: "195 x 140 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/gama/gama-b.png",
+                "/static/gama/gama-c.png"
             ]
         },
         "costa": {
@@ -988,10 +886,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "80 cm",
             bedSize: "190 x 140 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/costa/costa-b.png",
+                "/static/costa/costa-c.png"
             ]
         },
         "korfu": {
@@ -1004,10 +900,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "85 cm",
             bedSize: "195 x 145 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/korfu/korfu-b.png",
+                "/static/korfu/korfu-c.png"
             ]
         },
         "tulum": {
@@ -1020,10 +914,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "92 cm",
             bedSize: "",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/tulum/tulum-b.png"
             ]
         },
         "polia": {
@@ -1036,10 +927,9 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "93 cm",
             bedSize: "200 cm x 145 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/polia/polia-b.png",
+                "/static/polia/polia-c.png",
+                "/static/polia/polia-d.png"
             ]
         },
         "mataro": {
@@ -1052,10 +942,9 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90-97 cm",
             bedSize: "196 cm x 140 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/mataro/mataro-b.png",
+                "/static/mataro/mataro-c.png",
+                "/static/mataro/mataro-d.png"
             ]
         },
         "bodo": {
@@ -1068,10 +957,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90 cm",
             bedSize: "205 cm x 160 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/bodo/bodo-b.png",
+                "/static/bodo/bodo-c.png"
             ]
         },
         "spello_armchair": {
@@ -1084,10 +971,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "92-110 cm",
             bedSize: "",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/spello/spello_armchair-b.png",
+                "/static/spelli/spello_armchair-c.png"
             ]
         },
         "spello_2ppl": {
@@ -1100,10 +985,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "92-110 cm",
             bedSize: "",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/spello/spello_2ppl-b.png",
+                "/static/spello/spello_2ppl-c.png"
             ]
         },
         "spello_3ppl": {
@@ -1116,10 +999,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "92-110 cm",
             bedSize: "195 cm x 140 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/spello/spello_3ppl-b.png",
+                "/static/spello/spello_3ppl-c.png"
             ]
         },
         "spello_corner": {
@@ -1132,10 +1013,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "97-110 cm",
             bedSize: "140 cm x 230 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/spello/spello_corner-b.png"
             ]
         },
         "nevada": {
@@ -1148,10 +1026,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "95 cm",
             bedSize: "125 cm x 198 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/nevada/nevada-b.png"
             ]
         },
         "lahti": {
@@ -1164,10 +1039,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "86 cm",
             bedSize: "235 cm x 152 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/lahti/lahti-b.png"
             ]
         },
 
@@ -1181,10 +1053,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90 cm",
             bedSize: "195 cm x 150 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/akaso/akaso_1-b.png"
             ]
         },
          "akaso_2": {
@@ -1197,10 +1066,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90 cm",
             bedSize: "195 cm x 150 cm",
              gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/akaso/akaso_2-b.png"
             ]
         },
         "akaso_miz_l": {
@@ -1213,10 +1079,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90 cm",
             bedSize: "263 cm x 150 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/akaso/akaso_mix_l-b.png"
             ]
         },
         "akaso_3": {
@@ -1229,10 +1092,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90 cm",
             bedSize: "195 cm x 150 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/akaso/akaso_3-b.png"
             ]
         },
         "akaso_armchair": {
@@ -1245,10 +1105,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: " ",
             bedSize: "",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/akaso/akaso_armchair-b.png"
             ]
         },
         "akaso_ottoman": {
@@ -1261,10 +1118,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: " ",
             bedSize: "",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/akaso/akaso_ottoman-b.png"
             ]
         },
         "akaso": {
@@ -1277,10 +1131,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90 cm ",
             bedSize: "200 cm x 150 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/akaso/akaso-b.png"
             ]
         },
         "espo": {
@@ -1293,10 +1144,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "89 cm ",
             bedSize: "205 cm x 140 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/espo/espo-b.png"
             ]
         },
         "ronda": {
@@ -1309,10 +1157,9 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "92 cm ",
             bedSize: "200 cm x 145 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/ronda/ronda-b.png",
+                "/static/ronda/ronda-c.png",
+                "/static/ronda/ronda-d.png"
             ]
         },
         "vertigo_2": {
@@ -1325,10 +1172,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "90-107 cm ",
             bedSize: "215 cm x 130 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/vertigo/vertigo_2-b.png"
             ]
         },
         "gordon": {
@@ -1341,10 +1185,9 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "95 cm ",
             bedSize: "210 cm x 150 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/gordon/gordon-b.png",
+                "/static/gordon/gordon-c.png",
+                "/static/gordon/gordon-d.png"
             ]
         },
         "davos": {
@@ -1357,10 +1200,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "93 cm ",
             bedSize: "204 cm x 155 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/davos/davos-b.png",
+                "/static/davos/davos-c.png"
             ]
         },
 
@@ -1374,10 +1215,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "92 cm ",
             bedSize: "195 cm x 160 cm",
             gallery: [
-                "/static/rio/rio-b.png",
-                "/static/rio/rio-c.png",
-                "/static/rio/rio-d.png",
-                "/static/rio/rio-e.png"
+                "/static/gustavo/gustavo-b.png",
+                "/static/gustavo/gustavo-c.png"
             ]
         },
 
@@ -1387,7 +1226,10 @@ document.addEventListener("DOMContentLoaded", () => {
     const params = new URLSearchParams(window.location.search);
     const productID = params.get("id");
     const product = products[productID];
+    console.log(productID);
+    console.log(product);
 
+    console.log("JavaScript is running");
     if (product) {
         document.getElementById("product-name").textContent = product.name;
         document.getElementById("product-price").textContent = product.price;
@@ -1398,7 +1240,26 @@ document.addEventListener("DOMContentLoaded", () => {
         document.getElementById("product-depth").textContent = "Depth: " + product.depth;
         document.getElementById("product-height").textContent = "Height: " + product.height;
         document.getElementById("product-bedSize").textContent = "Bed Size: " + product.bedSize;
+            // Gallery
+        const galleryContainer = document.getElementById("product-gallery");
+        galleryContainer.innerHTML = "";
 
+        if (product.gallery) {
+            product.gallery.forEach(image => {
+                const img = document.createElement("img");
+                img.src = image;
+                img.alt = product.name;
+                img.classList.add("gallery-image");
+
+                // Change the main image when a thumbnail is clicked
+                img.addEventListener("click", () => {
+                    document.getElementById("product-image").src = image;
+                });
+
+                galleryContainer.appendChild(img);
+            });
+        }
     }
 });
+
 

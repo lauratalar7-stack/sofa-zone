@@ -482,6 +482,29 @@ margin:auto;
 font-size:18px;
 }
 
+.product-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    max-width: 900px;
+    margin: 30px auto 40px;
+}
+
+.gallery-image {
+    width: 440px;      /* About half of 900px */
+    max-width: 100%;
+    border-radius: 20px;
+    box-shadow: var(--shadow);
+    cursor: pointer;
+    transition: transform .3s ease, box-shadow .3s ease;
+}
+
+.gallery-image:hover {
+    transform: scale(1.02);
+    box-shadow: 0 12px 25px rgba(0,0,0,.18);
+}
+
 
 /* ===== LEGAL PAGES ===== */
 .privacy-policy,
