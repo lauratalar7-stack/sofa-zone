@@ -339,7 +339,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "95-104cm",
             bedSize: "205 cm x 140 cm",
             gallery: [
-                "/static/genewa/genewa_corner-b.png"
+                "/static/genewa/genewa_corner.png"
             ]
         },
         "vertigo_corner": {
@@ -451,8 +451,7 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "93cm",
             bedSize: "200 x 145 cm",
             gallery: [
-                "/static/yoko/yoko-b.png",
-                "/static/yoko/yoko-c.png"
+                "/static/yoko/yoko-b.png"
             ]
         },
 
@@ -482,8 +481,8 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "92cm",
             bedSize: "205 x 140 cm",
             gallery: [
-                "/static/olso/olso-b.png",
-                "/static/olso/olso-c.png"
+                "/static/olsen/olsen-b.png",
+                "/static/olsen/olsen-c.png"
             ]
         },
 
@@ -972,7 +971,7 @@ document.addEventListener("DOMContentLoaded", () => {
             bedSize: "",
             gallery: [
                 "/static/spello/spello_armchair-b.png",
-                "/static/spelli/spello_armchair-c.png"
+                "/static/spello/spello_armchair-c.png"
             ]
         },
         "spello_2ppl": {
