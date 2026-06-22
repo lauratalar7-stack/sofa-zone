@@ -1218,6 +1218,32 @@ document.addEventListener("DOMContentLoaded", () => {
                 "/static/gustavo/gustavo-c.png"
             ]
         },
+        "amalfi": {
+            name:"Amalfi Sofa ",
+            price: "€1864",
+            image: "/static/amalfi/amalfi.png",
+            description: "The Amalfi Sofa combines modern style with everyday comfort, making it a perfect addition to any living space. Upholstered in a warm, textured fabric, it features plush cushioning and a clean, contemporary design. Its neutral tones blend effortlessly with a variety of interior styles, from minimalist to classic. Durable and inviting, this sofa is ideal for relaxing, entertaining, or simply unwinding at the end of the day.",
+            width: "175 cm ",
+            depth: "105 cm ",
+            height: "86 cm ",
+            bedSize: "215 cm x 175 cm",
+            gallery: [
+                "/static/amalfi/amalfi.png"
+            ]
+        },
+        "haga": {
+            name:"Haga Sofa ",
+            price: "€1480",
+            image: "/static/haga/haga.png",
+            description: "The Haga Sofa showcases a sleek, minimalist design with soft curves and deep, inviting seating. Upholstered in a light neutral fabric, it brings a sense of warmth and modern elegance to any living space. Its low-profile silhouette creates a relaxed, contemporary look while maximizing comfort. Perfect for lounging, entertaining, or creating a stylish focal point in your home.",
+            width: "265 cm ",
+            depth: "-",
+            height: "112 cm ",
+            bedSize: "195 cm x 160 cm",
+            gallery: [
+                "/static/haga/haga.png"
+            ]
+        },
 
 
     };
