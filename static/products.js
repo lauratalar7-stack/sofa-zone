@@ -1244,6 +1244,146 @@ document.addEventListener("DOMContentLoaded", () => {
                 "/static/haga/haga.png"
             ]
         },
+        "best": {
+            name:"Best Corner ",
+            price: "€1330",
+            image: "/static/best/best.png",
+            description:"metal legs, bedding container, sleeping function, adjustable headrests, stitching - corner sofa dimensions: width: 270 cm height: 86-102 cm depth: 212 cm seat height: 48 cm",
+            width: "270 cm ",
+            depth: "212 cm",
+            height: "48 cm ",
+            bedSize: "121 cm x 200 cm",
+            gallery: [
+                "/static/best/best_b.png",
+                "/static/best/best_c.png",
+                "/static/best/best_d.png",
+                "/static/best/best_e.png"
+            ]
+        },
+        "boris": {
+            name:"Boris Corner ",
+            price: "€1070",
+            image: "/static/boris/boris.png",
+            description: "Glamour, Puma automatic, metal legs, bedding container, sleeping function, stitching - corner sofa dimensions: width: 290 cm height: 96 cm depth: 175 cm seat height: 47 cm",
+            width: "290 cm ",
+            depth: "175 cm",
+            height: "96 cm ",
+            bedSize: "125 cm x 248 cm",
+            gallery: [
+                "/static/boris/boris_b.png",
+                "/static/boris/boris_c.png",
+                "/static/boris/boris_d.png"
+            ]
+        },
+        "west": {
+            name:"West Corner ",
+            price: "€1400",
+            image: "/static/west/west.png",
+            description:"metal legs, bedding container, sleeping function, adjustable headrests, stitching - corner sofa dimensions: width: 350 cm height: 75-90 cm depth: 202 cm seat height: 43 cm",
+            width: "350 cm ",
+            depth: "202 cm",
+            height: "90 cm ",
+            bedSize: "265 cm x 125 cm",
+            gallery: [
+                "/static/west/west_b.png",
+                "/static/west/west_c.png",
+                "/static/west/west_d.png",
+                "/static/west/west_e.png",
+                "/static/west/west_f.png",
+                "/static/west/west_g.png"
+            ]
+        },
+        "lido": {
+            name:"Lido Corner ",
+            price: "€1100",
+            image: "/static/lido/lido.png",
+            description:"metal legs, bedding container, sleeping function, adjustable headrests - corner sofa dimensions: width: 280 cm height: 75-90 cm depth: 202 cm seat height: 43 cm",
+            width: "280 cm ",
+            depth: "202 cm",
+            height: "90 cm ",
+            bedSize: "125 cm x 208 cm",
+            gallery: [
+                "/static/lido/lido_b.png",
+                "/static/lido/lido_c.png",
+                "/static/lido/lido_d.png",
+                "/static/lido/lido_e.png"
+
+            ]
+        },
+        "bari_2": {
+            name:"Bari Corner 2 ",
+            price: "€1000",
+            image: "/static/bari/bari_2.png",
+            description:"bedding container, sleeping function, adjustable headrests - corner sofa dimensions: width: 253 cm height: 82-100 cm depth: 156 cm",
+            width: "253 cm ",
+            depth: "156 cm",
+            height: "100 cm ",
+            bedSize: "122 cm x 200 cm",
+            gallery: [
+                "/static/bari/bari_2_b.png",
+                "/static/bari/bari_2_c.png",
+                "/static/bari/bari_2_d.png",
+                "/static/bari/bari_2_e.png",
+                "/static/bari/bari_2_f.png"
+
+            ]
+        },
+        "boston_2": {
+            name:"Boston Corner 2 ",
+            price: "€1700",
+            image: "/static/boston/boston_2.png",
+            description:"bedding container, sleeping function - corner sofa dimensions: width: 322 cm height: 110 cm depth: 226 cm seat height: 48 cm",
+            width: "322 cm ",
+            depth: "226 cm",
+            height: "48 cm x 110cm (seat height x backrest height) ",
+            bedSize: "255 cm x 120 cm",
+            gallery: [
+                "/static/boston/boston_2_b.png",
+                "/static/boston/boston_2_c.png",
+                "/static/boston/boston_2_d.png",
+                "/static/boston/boston_2_e.png",
+                "/static/boston/boston_2_f.png"
+
+            ]
+        },
+        "leo_ot_ii": {
+            name:"Leo OT II ",
+            price: "€1500",
+            image: "/static/leo_ot_ii/leo_ot_ii.png",
+            description:" black feet - corner sofa dimensions: width: 324 cm height: 92/108 cm depth: 160 cm seat height: 48 cm storage space in the armrest headrest adjustment",
+            width: "160 cm ",
+            depth: "324 cm",
+            height: "92/108 cm ",
+            bedSize: "104 cm x 244 cm",
+            gallery: [
+                "/static/leo_ot_ii/leo_ot_ii_b.png",
+                "/static/leo_ot_ii/leo_ot_ii_c.png",
+                "/static/leo_ot_ii/leo_ot_ii_d.png",
+                "/static/leo_ot_ii/leo_ot_ii_e.png",
+                "/static/leo_ot_ii/leo_ot_ii_f.png",
+                "/static/leo_ot_ii/leo_ot_ii_g.png",
+                "/static/leo_ot_ii/leo_ot_ii_h.png"
+
+            ]
+        },
+        "leo_ir_ii": {
+            name:"Leo IR II ",
+            price: "€1800",
+            image: "/static/leo_ir_ii/leo_ir_ii.png",
+            description:" black feet - corner sofa dimensions: width: 326 cm height: 92/108 cm depth: 233 cm seat height: 48 cm storage space in the armrest adjustable headrest",
+            width: "233 cm ",
+            depth: "326 cm",
+            height: "92/108 cm ",
+            bedSize: "106 cm x 235 cm",
+            gallery: [
+                "/static/leo_ir_ii/leo_ir_ii_b.png",
+                "/static/leo_ir_ii/leo_ir_ii_c.png",
+                "/static/leo_ir_ii/leo_ir_ii_d.png",
+                "/static/leo_ir_ii/leo_ir_ii_e.png",
+                "/static/leo_ir_ii/leo_ir_ii_f.png"
+
+            ]
+        },
 
 
     };
