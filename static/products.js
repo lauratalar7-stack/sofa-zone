@@ -1320,7 +1320,6 @@ document.addEventListener("DOMContentLoaded", () => {
             height: "100 cm ",
             bedSize: "122 cm x 200 cm",
             gallery: [
-                "/static/bari/bari_2_b.png",
                 "/static/bari/bari_2_c.png",
                 "/static/bari/bari_2_d.png",
                 "/static/bari/bari_2_e.png",
@@ -1382,6 +1381,107 @@ document.addEventListener("DOMContentLoaded", () => {
                 "/static/leo_ir_ii/leo_ir_ii_e.png",
                 "/static/leo_ir_ii/leo_ir_ii_f.png"
 
+            ]
+        },
+        "rico": {
+            name:"Rico Corner ",
+            price: "€1200",
+            image: "/static/rico/rico.png",
+            description:"wooden legs, bedding container, sleeping function, adjustable headrests, stitching - corner sofa dimensions: width: 270 cm height: 84-106 cm depth: 204 cm seat height: 46 cm",
+            width: "270 cm ",
+            depth: "204 cm",
+            height: "84/106 cm ",
+            bedSize: "125 cm x 204 cm",
+            gallery: [
+                "/static/rico/rico_b.png",
+                "/static/rico/rico_c.png",
+                "/static/rico/rico_d.png",
+                "/static/rico/rico_e.png",
+            ]
+        },
+        "oslo_2": {
+            name:"Oslo 2 Corner ",
+            price: "€1200",
+            image: "/static/oslo/oslo_2.png",
+            description:"metal legs, bedding container, sleeping function, adjustable headrests, stitching - corner sofa dimensions: width: 270 cm height: 86-102 cm depth: 202 cm seat height: 48 cm",
+            width: "270 cm ",
+            depth: "202 cm",
+            height: "48 cm x 86-102 cm (seat height x backrest height) ",
+            bedSize: "121 cm x 200 cm",
+            gallery: [
+                "/static/oslo/oslo_2_b.png",
+                "/static/oslo/oslo_2_c.png",
+                "/static/oslo/oslo_2_d.png",
+                "/static/oslo/oslo_2_e.png",
+                "/static/oslo/oslo_2_f.png",
+            ]
+        },
+
+        "hugo_mini": {
+            name:"Hugo Mini Corner ",
+            price: "€900",
+            image: "/static/hugo_mini/hugo_mini.png",
+            description:"metal legs, bedding container, sleeping function, adjustable headrests, stitching - corner sofa dimensions: width: 270 cm height: 86-102 cm depth: 202 cm seat height: 48 cm",
+            width: "217 cm ",
+            depth: "160 cm",
+            height: "44 cm x 100-110cm (seat height x backrest height)",
+            bedSize: "124 cm x 196 cm",
+            gallery: [
+                "/static/hugo_mini/hugo_mini_b.png",
+                "/static/hugo_mini/hugo_mini_c.png",
+                "/static/hugo_mini/hugo_mini_d.png",
+                "/static/hugo_mini/hugo_mini_e.png",
+            ]
+        },
+
+        "denver": {
+            name:"Denver Corner ",
+            price: "€950",
+            image: "/static/denver/denver.png",
+            description:"universal, automatic unfolding, 2x bedding container, sleeping function, removable cushions - corner sofa dimensions: width: 243 cm height: 73 cm depth: 149 cm seat height: 40 cm",
+            width: "243 cm ",
+            depth: "149 cm",
+            height: "40 cm x 73cm (seat height x backrest height)",
+            bedSize: "130 cm x 204 cm",
+            gallery: [
+                "/static/denver/denver_b.png",
+                "/static/denver/denver_c.png",
+                "/static/denver/denver_d.png",
+
+            ]
+        },
+
+        "denis": {
+            name:"Denis Corner ",
+            price: "€899",
+            image: "/static/denis/denis.png",
+            description:"universal, automatic unfolding, 2x bedding container, sleeping function, removable cushions - corner sofa dimensions: width: 238 cm height: 79 cm depth: 147 cm seat height: 49 cm",
+            width: "238 cm ",
+            depth: "147 cm",
+            height: "49 cm x 79cm (seat height x backrest height)",
+            bedSize: "130 cm x 204 cm",
+            gallery: [
+                "/static/denis/denis_b.png",
+                "/static/denis/denis_c.png",
+                "/static/denis/denis_d.png",
+                "/static/denis/denis_e.png",
+                "/static/denis/denis_f.png",
+            ]
+        },
+
+        "borys_mini": {
+            name:"Borys Mini Corner ",
+            price: "€1270",
+            image: "/static/borys_mini/borys_mini.png",
+            description:"Glamour, Puma automatic, metal legs, bedding container, sleeping function, buttons, crystals, quilting - corner sofa dimensions: width: 235 cm height: 96 cm depth: 175 cm seat height: 47 cm",
+            width: "235 cm ",
+            depth: "175 cm",
+            height: "47 cm x 96 cm (seat height x backrest height)",
+            bedSize: "133 cm x 204 cm",
+            gallery: [
+                "/static/borys_mini/borys_mini_b.png",
+                "/static/borys_mini/borys_mini_c.png",
+                "/static/borys_mini/borys_mini_d.png",
             ]
         },
 
